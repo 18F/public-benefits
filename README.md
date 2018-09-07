@@ -1,4 +1,4 @@
-#18F’s human services portfolio
+# 18F’s human services portfolio
 This repo is an index of work in the human services space led by teams within GSA's [Technology Transformation Service (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (which includes [18F](https://18f.gsa.gov/)).
 
 ## About the portfolio
