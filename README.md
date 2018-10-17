@@ -29,7 +29,7 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
 
-### CA Child Welfare modular procurement
+### California Child Welfare modernization
 18F has been partnering with the California Child Welfare Digital Services (CWDS) team since 2015. CWDS is a collaboration of state and local government agencies dedicated to building a new child welfare information system that responds to users’ needs while maintaining the best standards for security and data integrity. The goal is for CWDS to develop a strategy for building a new, intuitive, user-centric system that will have a direct impact on child safety, permanency, and well-being. The scope of the project includes supporting CWDS by providing hands on support to product owners, improving agile practices, and evaluating product and technical strategy. 
 
 **People**:
@@ -41,7 +41,7 @@ Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://g
 **Links:**
 - [Internal project README on Google Drive](https://docs.google.com/document/d/1GS94L-39JxKk74ODmYZMpu_1wV4V85q5JCeEpZQJ8p8/edit) 🔒
  
-### AK Eligibility & Enrollment (E&E)
+### Alaska Eligibility & Enrollment (E&E) modernization
 Our team has been partnering with the Alaska Department of Health & Social Services, Division of Public Assistance (DPA) for the last year and a half to help them take an iterative, user-centered and modular approach to procuring and building a modern, integrated eligibility system. DPA's goal in this modernization is to enable staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs, in a manner that not only meets state and federal standards, but is user friendly for their clients, their eligibility staff, and their technical staff.
 
 **People**:
@@ -56,7 +56,7 @@ Previous: [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://g
 - [First vendor-delivered module](https://github.com/AlaskaDHSS/Dpa-Eisr-UnifiedSearch)
 - [First procurement postmortem](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/first-buy-postmortem.md)
  
-### VT E&E modernization
+### Vermont E&E modernization
 Our team has been partnering with the State of Vermont for the last year to help them pursue a modular, iterative procurement strategy to move towards an Integrated Eligibility & Enrollment system and incrementally migrate away from their legacy systems, with the goal of better serving state staff who administer public benefits like Medicaid and SNAP to Vermont residents. 
 
 **People**:
@@ -103,7 +103,7 @@ Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Mul
 
 ## Past Projects (WIP)
 
-### AK Child Welfare modernization
+### Alaska Child Welfare modernization
 The State of Alaska Office of Children’s Services (OCS) is starting process of transitioning from their legacy child welfare system to something that will meet the new CCWIS standard from ACF. In advance of this, OCS sought the assistance of the TTS Acquisition Team to develop an acquisition strategy to support to transition from the current system to a new CCWIS-compliant system. Developing a new acquisition strategy also entailed a review of their existing practices around procurement, software development and vendor engagement.
  
 **People:** [Mark Headd](https://github.com/mheadd), [Alan Atlas](https://github.com/AlanAtlas), [Waldo Jaquith](https://github.com/waldoj), [Vraj Mohan](https://github.com/vrajmohan), [Ed Mullen](https://github.com/edmullen), [Randy Hart](https://github.com/randyhart)
@@ -135,7 +135,7 @@ _more info coming soon_
 
 Research: https://goo.gl/Q7hRbK	Prototype: https://goo.gl/DCusK4
 
-### MO MMIS modernization 	
+### Missouri Medicaid Management Information System (MMIS) modernization 	
 _more info coming soon_
 
 https://goo.gl/bBm4RV	
@@ -155,7 +155,7 @@ _more info coming soon_
 
 https://goo.gl/ZMBP1B	
 
-### HHS/CMS w MO, MN, & WY - Medicaid Mgmt Info System (MMIS) path analysis	
+### HHS/CMS w MO, MN, & WY - MMIS modernization path analysis	
 _more info coming soon_
 
 https://goo.gl/kMZogJ	
