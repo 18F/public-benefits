@@ -84,7 +84,7 @@ Previous: [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https:/
 **Links:**
 - [Github repo](https://github.com/18F/cms-hitech-apd)
 - [eAPD app](https://hitech-apd.app.cloud.gov) 🔒
-- [Internal project README on Google Drive](https://docs.google.com/document/d/1ICl9YmRbm7_wCiv2LxmtVkk0cShqXcjjnQpDuAHyNWw/edit#heading=h.jk7mb6oafs2k) 🔒
+- [Internal project README on Google Drive](https://docs.google.com/document/d/1XoU-hlGuGGdcierT95sBOpM4rvP_KW9qRqFslnjVGV8/edit) 🔒
  
 ### 10x E&E - Eligibility rules service
 The eligibility rules service project is exploring the idea of providing shared web services that states could use to help make eligibility determinations for human services programs. Project currently funded through [10x](https://10x.gsa.gov/).
