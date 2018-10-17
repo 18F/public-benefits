@@ -96,7 +96,7 @@ Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Mul
 **Links:** 
 - [GitHub repo](https://github.com/18F/eligibility-rules-service)
 - Presentation: [_What is the Eligibility Rules Service project?_](https://github.com/18F/eligibility-rules-service/blob/master/assets/what-is-the-eligibility-rules-service-project.pdf)
-- [README on Google Drive](https://drive.google.com/open?id=1Sn_DiI9CnFBgcv0bHwFtXEN6iNOz7h1jKXBLizQ6TMo)
+- [README on Google Drive](https://drive.google.com/open?id=1Sn_DiI9CnFBgcv0bHwFtXEN6iNOz7h1jKXBLizQ6TMo) 🔒
 
 
 ## Past Projects (WIP)
