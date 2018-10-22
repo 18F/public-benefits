@@ -28,6 +28,7 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
+---
 
 ### California Child Welfare modernization
 18F has been partnering with the California Child Welfare Digital Services (CWDS) team since 2015. CWDS is a collaboration of state and local government agencies dedicated to building a new child welfare information system that responds to users’ needs while maintaining the best standards for security and data integrity. The goal is for CWDS to develop a strategy for building a new, intuitive, user-centric system that will have a direct impact on child safety, permanency, and well-being. The scope of the project includes supporting CWDS by providing hands on support to product owners, improving agile practices, and evaluating product and technical strategy. 
@@ -41,6 +42,9 @@ Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://g
 **Links:**
 - [Internal project README on Google Drive](https://docs.google.com/document/d/1GS94L-39JxKk74ODmYZMpu_1wV4V85q5JCeEpZQJ8p8/edit) 🔒
  
+
+---
+
 ### Alaska Eligibility & Enrollment (E&E) modernization
 Our team has been partnering with the Alaska Department of Health & Social Services, Division of Public Assistance (DPA) for the last year and a half to help them take an iterative, user-centered and modular approach to procuring and building a modern, integrated eligibility system. DPA's goal in this modernization is to enable staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs, in a manner that not only meets state and federal standards, but is user friendly for their clients, their eligibility staff, and their technical staff.
 
@@ -56,6 +60,9 @@ Previous: [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://g
 - [First vendor-delivered module](https://github.com/AlaskaDHSS/Dpa-Eisr-UnifiedSearch)
 - [First procurement postmortem](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/first-buy-postmortem.md)
  
+
+---
+
 ### Vermont E&E modernization
 Our team has been partnering with the State of Vermont for the last year to help them pursue a modular, iterative procurement strategy to move towards an Integrated Eligibility & Enrollment system and incrementally migrate away from their legacy systems, with the goal of better serving state staff who administer public benefits like Medicaid and SNAP to Vermont residents. 
 
@@ -69,6 +76,8 @@ Previous: [Vicki McFadden](https://github.com/vickimcfadden), [Greg Walker](http
 - No public repository at this time
 - [Internal project README for Year 1 on Google Drive](https://docs.google.com/document/d/1lB1UeFubbIg_Rcg5pDc7eLjwMsKkWNTQGReQxeHWppg/edit#) 🔒
 - [Internal project README for Year 2 on Google Drive](https://docs.google.com/document/d/17zkT-7mxjVrJuwu--tqafqQPSIGq2XdGVnIq0lV4VCs/edit#) 🔒
+
+---
 
 ### HHS/CMS Advance Planning Document(APD) modernization
 In addition to our state work, we are partnering directly with the Centers for Medicare & Medicaid Services (CMS) to identify opportunities to make changes at the federal level to help states be more successful in their efforts to modernize their Medicaid systems.  
@@ -86,6 +95,8 @@ Previous: [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https:/
 - [eAPD app](https://hitech-apd.app.cloud.gov) 🔒
 - [Internal project README on Google Drive](https://docs.google.com/document/d/1XoU-hlGuGGdcierT95sBOpM4rvP_KW9qRqFslnjVGV8/edit) 🔒
  
+---
+
 ### 10x E&E - Eligibility rules service
 The eligibility rules service project is exploring the idea of providing shared web services that states could use to help make eligibility determinations for human services programs. Project currently funded through [10x](https://10x.gsa.gov/).
 
@@ -103,6 +114,8 @@ Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Mul
 
 ## Past Projects (WIP)
 
+---
+
 ### Alaska Child Welfare modernization
 The State of Alaska Office of Children’s Services (OCS) is starting process of transitioning from their legacy child welfare system to something that will meet the new CCWIS standard from ACF. In advance of this, OCS sought the assistance of the TTS Acquisition Team to develop an acquisition strategy to support to transition from the current system to a new CCWIS-compliant system. Developing a new acquisition strategy also entailed a review of their existing practices around procurement, software development and vendor engagement.
  
@@ -111,6 +124,8 @@ The State of Alaska Office of Children’s Services (OCS) is starting process of
 **Links:**
 - [GitHub repo](https://github.com/AlaskaDHSS/ORCA-Modernization)
 - [Internal project README on Google Drive](https://docs.google.com/document/d/1KXiwklBPc5avDenKdbR1LAgvlrTfklS-HAulKRFUTlQ/edit) 🔒
+
+---
 
 ### USDA/SNAP State waiver path analysis
 The USDA's Food and Nutrition Services (FNS) contracted with vendors to build a system to improve the process for States requesting waivers related to administering Supplemental Nutrition Assistance Program (SNAP) benefits. With this system, they intend to reduce the time in the waiver decision making cycle, reduce inconsistencies across states, and increase customer service quality. The system would replace a paper process.
@@ -129,6 +144,8 @@ _more info coming soon_
 _more info coming soon_
 
 https://docs.google.com/document/d/1o0Hcea9gjPNh21LvGyoQxkdiR2AKLzjaz2TfgkuVMxs/edit#heading=h.ry4ciyubbv4l	
+
+---
 
 ### HHS/CMS Multi-program enrollment prototype	
 _more info coming soon_
