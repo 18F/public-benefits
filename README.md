@@ -141,9 +141,14 @@ Unfortunately, work produced by the vendor did not meet FNS's requirements and F
 _more info coming soon_
 
 ### CA MEDS - Medicaid Eligibility modernization	
-_more info coming soon_
 
-https://docs.google.com/document/d/1o0Hcea9gjPNh21LvGyoQxkdiR2AKLzjaz2TfgkuVMxs/edit#heading=h.ry4ciyubbv4l	
+California is starting a large scale procurement effort to modernize their Medicaid eligibility system (known as MEDS). 18F was asked to create a technical prototype in order to de-risk this effort, generate enthusiasm for a more iterative, user-centered way of working, and identify stumbling points that need to be addressed before vendors join the effort.
+
+**People:**
+[Nikki Lee](https://github.com/nkkl), [Aaron Borden](https://github.com/adborden), [Adam Biagianti](https://github.com/el-mapache), [Victor Zapanta](https://github.com/vz3), [Alex Pandel](https://github.com/alexpandel), [Jessie Posilkin](https://github.com/jposi), [Sasha Magee](https://github.com/sashax)
+
+**Links:**
+[Internal project README on Google Drive](https://docs.google.com/document/d/1o0Hcea9gjPNh21LvGyoQxkdiR2AKLzjaz2TfgkuVMxs/edit#heading=h.ry4ciyubbv4l) 🔒
 
 ---
 
