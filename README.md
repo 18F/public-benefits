@@ -102,7 +102,7 @@ The eligibility rules service project is exploring the idea of providing shared 
 
 **People:**
 
-Current: [Ed Mullen](https://github.com/edmullen), [Vraj Mohan](https://github.com/vrajmohan), [Alex Pandel](https://github.com/alexpandel)
+Current: [Ed Mullen](https://github.com/edmullen), [Vraj Mohan](https://github.com/vrajmohan), [Adam Biagianti](https://github.com/el-mapache), [Alex Pandel](https://github.com/alexpandel)
 
 Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Muller](https://github.com/shawnique)
 
