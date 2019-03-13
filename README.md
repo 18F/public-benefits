@@ -98,7 +98,7 @@ Previous: [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https:/
 ---
 
 ### 10x E&E - Eligibility rules service
-The eligibility rules service project is exploring the idea of providing shared web services that states could use to help make eligibility determinations for human services programs. Project currently funded through [10x](https://10x.gsa.gov/).
+The eligibility rules service project is exploring the idea of providing shared web services that states could use to help make eligibility determinations for human services programs. Currently funded through [10x](https://10x.gsa.gov/), we are working with the SNAP team at FNS developing a rules service for the D-SNAP program and an accompanying online registration form.
 
 **People:**
 
