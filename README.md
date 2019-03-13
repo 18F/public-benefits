@@ -78,7 +78,6 @@ Previous: [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https:/
 
 **Links:**
 - [Github repo](https://github.com/18F/cms-hitech-apd)
-- [eAPD app](https://hitech-apd.app.cloud.gov) 🔒
 - [Internal project README on Google Drive](https://docs.google.com/document/d/1XoU-hlGuGGdcierT95sBOpM4rvP_KW9qRqFslnjVGV8/edit) 🔒
  
 ---
