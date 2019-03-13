@@ -28,20 +28,6 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
----
-
-### California Child Welfare modernization
-18F has been partnering with the California Child Welfare Digital Services (CWDS) team since 2015. CWDS is a collaboration of state and local government agencies dedicated to building a new child welfare information system that responds to users’ needs while maintaining the best standards for security and data integrity. The goal is for CWDS to develop a strategy for building a new, intuitive, user-centric system that will have a direct impact on child safety, permanency, and well-being. The scope of the project includes supporting CWDS by providing hands on support to product owners, improving agile practices, and evaluating product and technical strategy. 
-
-**People**:
-
-Current: [Allison Norman](https://github.com/allisonnorman), [Colin Craig](https://github.com/cacraig), [Robin Carnahan](https://github.com/robincarnahan), [Alex Pandel](https://github.com/alexpandel), [Clint Troxel](https://github.com/ctro)
-
-Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://github.com/yowill), [Jesse Taggert](https://github.com/jtag), [Dave Zvenyach](https://github.com/vzvenyach), [Shashank Khandelwal](https://github.com/khandelwal), [Mark Headd](https://github.com/mheadd), [Alan Altas](https://github.com/AlanAtlas), [Jacob Kaplan-Moss](https://github.com/jacobian), [Nikki Lee](https://github.com/nkkl), [Ed Mullen](https://github.com/edmullen)
-
-**Links:**
-- [Internal project README on Google Drive](https://docs.google.com/document/d/1GS94L-39JxKk74ODmYZMpu_1wV4V85q5JCeEpZQJ8p8/edit) 🔒
- 
 
 ---
 
@@ -114,6 +100,20 @@ Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Mul
 
 ## Past Projects (WIP)
 
+---
+
+### California Child Welfare modernization
+18F has been partnering with the California Child Welfare Digital Services (CWDS) team since 2015. CWDS is a collaboration of state and local government agencies dedicated to building a new child welfare information system that responds to users’ needs while maintaining the best standards for security and data integrity. The goal is for CWDS to develop a strategy for building a new, intuitive, user-centric system that will have a direct impact on child safety, permanency, and well-being. The scope of the project includes supporting CWDS by providing hands on support to product owners, improving agile practices, and evaluating product and technical strategy. 
+
+**People**:
+
+Current: [Allison Norman](https://github.com/allisonnorman), [Colin Craig](https://github.com/cacraig), [Robin Carnahan](https://github.com/robincarnahan), [Alex Pandel](https://github.com/alexpandel), [Clint Troxel](https://github.com/ctro)
+
+Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://github.com/yowill), [Jesse Taggert](https://github.com/jtag), [Dave Zvenyach](https://github.com/vzvenyach), [Shashank Khandelwal](https://github.com/khandelwal), [Mark Headd](https://github.com/mheadd), [Alan Altas](https://github.com/AlanAtlas), [Jacob Kaplan-Moss](https://github.com/jacobian), [Nikki Lee](https://github.com/nkkl), [Ed Mullen](https://github.com/edmullen)
+
+**Links:**
+- [Internal project README on Google Drive](https://docs.google.com/document/d/1GS94L-39JxKk74ODmYZMpu_1wV4V85q5JCeEpZQJ8p8/edit) 🔒
+ 
 ---
 
 ### Alaska Child Welfare modernization
