@@ -167,7 +167,7 @@ _more info coming soon_
 School Lunch app prototype	https://goo.gl/F6nV13	
 
 ### DOL/Women’s Bureau - Paid Family Leave system prototype	
-This Women's Bureau at the Department of Labor works to support States that are implementing a variety of programs. They wanted to share information to help improve the way state governments contract for Paid Family Leave Programs. 18F worked with DOL to develop a prototype of a front end, the result of user research with current and prospective users of Paid Family Leave in NJ, CT, and CA. 
+The Women's Bureau at the Department of Labor works to support States that are implementing a variety of programs. They wanted to share information to help improve the way state governments contract for Paid Family Leave Programs. 18F worked with DOL to develop a prototype of a front end, the result of user research with current and prospective users of Paid Family Leave in NJ, CT, and CA. 
 
 **People:**
 [Jessie Posilkin](https://github.com/jposi), [Robin Carnahan](https://github.com/robincarnahan), [Waldo Jaquith](https://github.com/waldoj), [Andrew Maier](andrewmaier)
