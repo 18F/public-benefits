@@ -136,8 +136,7 @@ Unfortunately, work produced by the vendor did not meet FNS's requirements and F
 **Links:**
 - [GitHub repo](https://github.com/18F/usda-snap-pa)
 
-### 10x Data Federation (w FNS Child Nutrition)	
-_more info coming soon_
+---
 
 ### CA MEDS - Medicaid Eligibility modernization	
 
@@ -150,6 +149,23 @@ California is starting a large scale procurement effort to modernize their Medic
 [Internal project README on Google Drive](https://docs.google.com/document/d/1o0Hcea9gjPNh21LvGyoQxkdiR2AKLzjaz2TfgkuVMxs/edit#heading=h.ry4ciyubbv4l) 🔒
 
 ---
+
+### DOL/Women’s Bureau - Paid Family Leave system prototype	
+The Women's Bureau at the Department of Labor works to support States that are implementing a variety of programs. They wanted to share information to help improve the way state governments contract for Paid Family Leave Programs. 18F worked with DOL to develop a prototype of a front end, the result of user research with current and prospective users of Paid Family Leave in NJ, CT, and CA. 
+
+**People:**
+[Jessie Posilkin](https://github.com/jposi), [Robin Carnahan](https://github.com/robincarnahan), [Waldo Jaquith](https://github.com/waldoj), [Andrew Maier](andrewmaier)
+
+**Links**
+- [Prototype](https://paid-leave-prototype.18f.gov/)
+- [Github Repo](https://github.com/18F/Paid-Leave-Prototype/blob/18f-pages/README.md)
+- [Explanation deck](https://github.com/18F/Paid-Leave-Prototype/blob/18f-pages/Paid%20Leave%20Prototype%20Deck.pdf)
+- [Project Google Docs](https://goo.gl/nDwNso)
+
+---
+
+### 10x Data Federation (w FNS Child Nutrition)	
+_more info coming soon_
 
 ### HHS/CMS Multi-program enrollment prototype	
 _more info coming soon_
@@ -165,18 +181,6 @@ https://goo.gl/bBm4RV
 _more info coming soon_
 
 School Lunch app prototype	https://goo.gl/F6nV13	
-
-### DOL/Women’s Bureau - Paid Family Leave system prototype	
-The Women's Bureau at the Department of Labor works to support States that are implementing a variety of programs. They wanted to share information to help improve the way state governments contract for Paid Family Leave Programs. 18F worked with DOL to develop a prototype of a front end, the result of user research with current and prospective users of Paid Family Leave in NJ, CT, and CA. 
-
-**People:**
-[Jessie Posilkin](https://github.com/jposi), [Robin Carnahan](https://github.com/robincarnahan), [Waldo Jaquith](https://github.com/waldoj), [Andrew Maier](andrewmaier)
-
-**Links**
-- [Prototype](https://paid-leave-prototype.18f.gov/)
-- [Github Repo](https://github.com/18F/Paid-Leave-Prototype/blob/18f-pages/README.md)
-- [Explanation deck](https://github.com/18F/Paid-Leave-Prototype/blob/18f-pages/Paid%20Leave%20Prototype%20Deck.pdf)
-- [Project Google Docs](https://goo.gl/nDwNso)
 
 ### SSA - Disability case processing system 	
 _more info coming soon_
