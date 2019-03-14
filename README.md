@@ -177,10 +177,17 @@ _more info coming soon_
 
 https://goo.gl/bBm4RV	
 
-### USDA/FNS/Child Nutrition - 
-_more info coming soon_
+---
 
-School Lunch app prototype	https://goo.gl/F6nV13	
+### Web-Based Prototype Application for Free and Reduced Price School Meals 
+Our [PIF](https://presidentialinnovationfellows.gov) colleagues worked with USDA's Food and Nutrition Service School Meals program to develop an electronic prototype application that is intended to be a model for how State and local program operators (or their designated vendors) may develop an effective and fully compliant electronic/online application for school meal benefits. The FNS School Meals team later collaborated on our U.S. Data Federation project.
+
+**Links**
+
+- [Web-Based Prototype Application for Free and Reduced Price School Meals](https://www.fns.usda.gov/school-meals/web-based-prototype-application)
+- [GitHub Repo (deprecated)](https://goo.gl/F6nV13)	
+
+---
 
 ### SSA - Disability case processing system 	
 _more info coming soon_
