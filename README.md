@@ -32,7 +32,7 @@ We have worked with partners at the federal, state, and local levels learning ab
 ---
 
 ### Alaska Eligibility & Enrollment (E&E) modernization
-Our team has been partnering with the Alaska Department of Health & Social Services, Division of Public Assistance (DPA) for the last year and a half to help them take an iterative, user-centered and modular approach to procuring and building a modern, integrated eligibility system. DPA's goal in this modernization is to enable staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs, in a manner that not only meets state and federal standards, but is user friendly for their clients, their eligibility staff, and their technical staff.
+Our team has been partnering with the Alaska Department of Health & Social Services, Division of Public Assistance (DPA) for the last two years to help them take an iterative, user-centered and modular approach to procuring and building a modern, integrated eligibility system. DPA's goal in this modernization effort is to enable staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs, in a manner that not only meets state and federal standards, but is user friendly for their clients, their eligibility staff, and their technical staff.
 
 **People**:
 
