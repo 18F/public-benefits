@@ -50,16 +50,16 @@ Previous: [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://g
 ---
 
 ### Vermont E&E modernization
-Our team has been partnering with the State of Vermont for the last year to help them pursue a modular, iterative procurement strategy to move towards an Integrated Eligibility & Enrollment system and incrementally migrate away from their legacy systems, with the goal of better serving state staff who administer public benefits like Medicaid and SNAP to Vermont residents. 
+Our team has been partnering with the State of Vermont for the last 18 months to help them pursue a modular, iterative procurement strategy to move towards an Integrated Eligibility & Enrollment system and incrementally migrate away from their legacy systems, with the goal of better serving state staff who administer public benefits like Medicaid and SNAP to Vermont residents. 
 
 **People**:
 
-Current: [Alicia Rouault](https://github.com/arouault), [Randy Hart](https://github.com/randyhart), [Andrew Burnes](https://github.com/apburnes), [Amy Ashida](https://github.com/amyashida), [Steven Reilly](https://github.com/stvnrlly), [Alex Pandel](https://github.com/alexpandel) 
+Current: [Alicia Rouault](https://github.com/arouault), [Randy Hart](https://github.com/randyhart), [Amy Ashida](https://github.com/amyashida), [Steven Reilly](https://github.com/stvnrlly), [Hannah Kane](https://github.com/hannahkane),  [Alex Pandel](https://github.com/alexpandel) 
 
-Previous: [Vicki McFadden](https://github.com/vickimcfadden), [Greg Walker](https://github.com/mgwalker), [Mark Hopson](https://github.com/MCHopson), [Nikki Lee](https://github.com/nkkl), [Robin Carnahan](https://github.com/robincarnahan), [Jessie Posilkin](https://github.com/jposi)
+Previous: [Vicki McFadden](https://github.com/vickimcfadden), [Greg Walker](https://github.com/mgwalker), [Mark Hopson](https://github.com/MCHopson), [Nikki Lee](https://github.com/nkkl), [Robin Carnahan](https://github.com/robincarnahan), [Jessie Posilkin](https://github.com/jposi), [Andrew Burnes](https://github.com/apburnes)
 
 **Links:**
-- No public repository at this time
+- [Main Program Repo](https://github.com/VermontAHS/IEE-Program)
 - [Internal project README for Year 1 on Google Drive](https://docs.google.com/document/d/1lB1UeFubbIg_Rcg5pDc7eLjwMsKkWNTQGReQxeHWppg/edit#) 🔒
 - [Internal project README for Year 2 on Google Drive](https://docs.google.com/document/d/17zkT-7mxjVrJuwu--tqafqQPSIGq2XdGVnIq0lV4VCs/edit#) 🔒
 
