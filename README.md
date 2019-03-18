@@ -181,9 +181,19 @@ The Women's Bureau at the Department of Labor works to support States that are i
 ---
 
 ### HHS/CMS Multi-program enrollment prototype	
-_more info coming soon_
+The [US Digital Service](https://www.usds.gov/) enlisted a team of 18F staff to help conduct a multi-pronged discovery effort in partnership with CMS to explore opportunities for the federal government to provide key technology and service improvements to the experience of accessing and enrolling in health and human service programs. 
 
-Research: https://goo.gl/Q7hRbK	Prototype: https://goo.gl/DCusK4
+The team conducted research into the user experience of enrolling in and providing services such as Medicaid, SNAP and TANF, as well as evaluated possible improvements to the federal Data Services Hub to streamline eligibility determinations. This work culminated in the creation of a multi-benefit enrollment prototype designed to model how to create simpler, user-centered multi-program applications. The work was funded through GSA’s Great Pitch (now [10x](https://10x.gsa.gov/)) incubator program.
+
+**People:**
+- [Mollie Ruskin](https://github.com/mollieru), Ginny Hunt, [Lucy Brady](https://github.com/LucyLBrady), [Clarence Wardell](https://github.com/cwardell), [Ross Dakin](https://github.com/rossdakin), [Alex Pandel](https://github.com/alexpandel), [Gail Swanson](https://github.com/GailSwanson), [Jamie Albrecht](https://github.com/jamiealbrecht), [Jeannine Hunter](https://github.com/jeanninehunter), [Meghana Khandekar](https://github.com/mkhandekar)
+
+**Links:**
+- [Research](https://goo.gl/Q7hRbK)
+- [Prototype](https://goo.gl/DCusK4)
+- [Blog post](https://medium.com/the-u-s-digital-service/redesigning-the-journey-to-critical-benefits-for-americans-in-poverty-2ca068591f32)
+
+---
 
 ### Missouri Medicaid Management Information System (MMIS) modernization 	
 _more info coming soon_
