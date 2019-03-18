@@ -11,7 +11,7 @@ We envision a world where:
 - State human services agencies operate efficiently, effectively, and sustainably.
 - State workers are empowered to change how their agencies operate.
 - Money spent on human services programs results in tangible value delivered.
-- The marketplace of vendors and solutions serving these programs is accessible, vibrant and efficient.
+- The marketplace of vendors and solutions serving these programs is accessible, competitive, vibrant, and efficient.
 
 ### Our role in making this vision a reality
 TTS is in a unique position to be a leader in this shift, influencing the ecosystem and its actors from a variety of angles due to our ability to work with agencies across the federal government, our experience supporting states through procurement consulting, our ongoing engagement with the vendor community, and our ability to build products and platforms for use across government. 
@@ -256,7 +256,7 @@ In 2016, 18F entered into our first direct engagement with the Centers for Medic
 ---
 
 ### HHS/ACYF w MS, CT, MD - Child Welfare path analysis	
-In 2016, 18F entered into an engagement with the federal Administration of Children, Youth and Families (ACYF) at HHS to explore ways to better assist states in modernizing their child welfare management IT systems. (ACYF oversees and provides significant funding for these state systems.) 18F led a series on on-site workshops for states’ child welfare agencies on modern software development and modular procurement approaches,including support for the state of [Mississippi’s first  “agile vendor pool”](https://18f.gsa.gov/2016/09/20/mississippi-agile-modular-techniques-child-welfare-system/) to allow state agencies to more quickly hire IT contractors prepared to do agile development work.
+In 2016, 18F entered into an engagement with the federal Administration of Children, Youth and Families (ACYF) at HHS to explore ways to better assist states in modernizing their child welfare management IT systems. (ACYF oversees and provides significant funding for these state systems.) 18F led a series on on-site workshops for states’ child welfare agencies on modern software development and modular procurement approaches, including support for the state of [Mississippi’s first  “agile vendor pool”](https://18f.gsa.gov/2016/09/20/mississippi-agile-modular-techniques-child-welfare-system/) to allow state agencies to more quickly hire IT contractors prepared to do agile development work.
 
 **People:** [Zac Cohn](https://github.com/zacharycohn), [Mark Hopson](https://github.com/MCHopson), [Greg Walker](https://github.com/mgwalker), [Vraj Mohan](https://github.com/vrajmohan), [Esther Praske](https://github.com/estherkpraske), [Jesse Taggert](https://github.com/jtag), [Robin Carnahan](https://github.com/robincarnahan)
 
