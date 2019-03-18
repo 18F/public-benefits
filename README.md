@@ -196,9 +196,13 @@ The team conducted research into the user experience of enrolling in and providi
 ---
 
 ### Missouri Medicaid Management Information System (MMIS) modernization 	
-_more info coming soon_
+Following our initial collaboration with the State of Missouri through our [first engagement with CMS](https://github.com/18F/human-services#hhscms-w-mo-mn--wy---mmis-modernization-path-analysis), we began working directly with the state of Missouri to assist them in the development of a modular procurement strategy for modernizing their legacy MMIS system. 
 
-https://goo.gl/bBm4RV	
+**People:**
+[Jessie Posilkin](https://github.com/jposi), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly), [Michael Torres](https://github.com/mtorres253), [Randy Hart](https://github.com/randyhart)
+
+**Links:**
+- [Internal README](https://docs.google.com/document/d/1RfWQTW8Ryk4T3R-WumYt9Uvclafn7zSH7YqGWaNl4n0/edit#heading=h.howpviawn7ik) 🔒
 
 ---
 
