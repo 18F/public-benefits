@@ -229,8 +229,19 @@ _more info coming soon_
 
 https://goo.gl/XiqFHg	
 
-### 10x E&E (Phase 1) - investigation	
-_more info coming soon_
+---
 
-https://goo.gl/D6vUv6	
+### 10x E&E (Phase 1) - investigation	
+
+After some initial work in the health and human services space through [our collaboration with USDS](#hhscms-multi-program-enrollment-prototype) and our [direct work with CMS](#hhscms-advance-planning-documentapd-modernization), [ACF](#hhsacyf-w-ms-ct-md---child-welfare-path-analysis), and [CWDS](#california-child-welfare-modernization), we wanted to take a step back to identify where TTS is best positioned to support human services agencies to more effectively leverage modern technology in service of their missions. 
+
+Through an initial 4-week investigation sprint funded by GSA’s [10x incubator program](https://10x.gsa.gov/), we explored current and past efforts in the space and identified areas where we believed TTS was best positioned to have a positive impact. This initial investigation led us to pursue and receive further rounds of 10x funding to support [further exploration](#10x-ee---eligibility-rules-service) into the value and feasibility of providing a central rules service at the federal level to assist states in making eligibility determinations for human services programs. 
+
+**People:** [Ed Mullen](https://github.com/edmullen), [Alex Pandel](https://github.com/alexpandel)
+
+**Links:**
+- [Internal project Readme](https://goo.gl/D6vUv6) 🔒
+- [shortform pitch in repo](https://github.com/18F/eligibility-rules-service/blob/master/assets/10x-EE-Phase1-Short-Pitch.pdf)
+- [Github repo](https://github.com/18F/eligibility-rules-service)
+
 
