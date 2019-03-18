@@ -256,9 +256,13 @@ In 2016, 18F entered into our first direct engagement with the Centers for Medic
 ---
 
 ### HHS/ACYF w MS, CT, MD - Child Welfare path analysis	
-_more info coming soon_
+In 2016, 18F entered into an engagement with the federal Administration of Children, Youth and Families (ACYF) at HHS to explore ways to better assist states in modernizing their child welfare management IT systems. (ACYF oversees and provides significant funding for these state systems.) 18F led a series on on-site workshops for states’ child welfare agencies on modern software development and modular procurement approaches,including support for the state of Mississippi’s first  “agile vendor pool” to allow state agencies to more quickly hire IT contractors prepared to do agile development work.
 
-https://goo.gl/XiqFHg	
+**People:** [Zac Cohn](https://github.com/zacharycohn), [Mark Hopson](https://github.com/MCHopson), [Greg Walker](https://github.com/mgwalker), [Vraj Mohan](https://github.com/vrajmohan), [Esther Praske](https://github.com/estherkpraske), [Jesse Taggert](https://github.com/jtag), [Robin Carnahan](https://github.com/robincarnahan)
+
+**Links:**
+- [Internal README](https://docs.google.com/document/d/1hY3iwOu0N2DC5uHRzsMLvSqGaP8rdVKJ-26Yx-e_ufk/edit)
+
 
 ---
 
