@@ -112,7 +112,7 @@ Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Mul
 - [Internal project README on Google Drive](https://drive.google.com/open?id=1Sn_DiI9CnFBgcv0bHwFtXEN6iNOz7h1jKXBLizQ6TMo) 🔒
 
 
-## Past Projects (WIP)
+## Past Projects 
 
 ---
 
