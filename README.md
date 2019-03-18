@@ -211,11 +211,11 @@ The team conducted research into the user experience of enrolling in and providi
 
 ---
 
-### Missouri Medicaid Management Information System (MMIS) modernization 	
-Following our initial collaboration with the State of Missouri through our [first engagement with CMS](https://github.com/18F/human-services#hhscms-w-mo-mn--wy---mmis-modernization-path-analysis), we began working directly with the state of Missouri to assist them in the development of a modular procurement strategy for modernizing their legacy MMIS system. 
+### Missouri Medicaid modernization 	
+Following our initial collaboration with the State of Missouri through our [first engagement with CMS](https://github.com/18F/human-services#hhscms-w-mo-mn--wy---mmis-modernization-path-analysis), we began working directly with the state to assist in the development of a modular procurement strategy for modernizing their systems. After the initial on-site discovery workshop, the state team determined that a better first project would be a premium collections module within their eligibility system. 18F collaborated with the state team on ways to use wireframes and prototypes to understand the constraints of their existing systems and better scope their follow-on RFP.
 
 **People:**
-[Jessie Posilkin](https://github.com/jposi), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly), [Michael Torres](https://github.com/mtorres253), [Randy Hart](https://github.com/randyhart)
+[Jessie Posilkin](https://github.com/jposi),[Greg Walker](https://github.com/mgwalker), [Steven Reilly](https://github.com/stvnrlly), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Randy Hart](https://github.com/randyhart), [Dave Zvenyach](https://github.com/vzvenyach), [Alex Pandel](https://github.com/alexpandel), [Fureigh](https://github.com/fureigh), [Robin Carnahan](https://github.com/robincarnahan)
 
 **Links:**
 - [Internal README](https://docs.google.com/document/d/1RfWQTW8Ryk4T3R-WumYt9Uvclafn7zSH7YqGWaNl4n0/edit#heading=h.howpviawn7ik) 🔒
