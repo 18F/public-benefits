@@ -215,9 +215,12 @@ Our [PIF](https://presidentialinnovationfellows.gov) colleagues worked with USDA
 ---
 
 ### SSA - Disability case processing system 	
-_more info coming soon_
+The Social Security Administration's Office of Disability and Adjudication Review (ODAR) engaged 18F to conduct a technical assessment project to analyze the Disability Case Processing System 2.0 (DCPS) and help determine whether the approach and architecture used for DCPS, a case processing system being developed for a different part of the enterprise, were viable solutions for reuse, fully scalable, extensible, and maintainable over the long term. SSA also sought an assessment of both government-provided and commercially available alternatives in order to decide on the best approach for the creation of the new ODAR system. 
 
-https://goo.gl/ZMBP1B	
+**People:** [Tony Garvan](https://github.com/anthonygarvan), [Ed Mullen](https://github.com/edmullen), [Vraj Mohan](https://github.com/vrajmohan)
+
+**Links**
+- [Internal README](https://docs.google.com/document/d/1_Q8KhVc453sjFAWyg2_6lGMjgwdT9jPVrzvLziL0AjE/edit)
 
 ---
 
