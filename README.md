@@ -142,6 +142,9 @@ Current: [Allison Norman](https://github.com/allisonnorman), [Colin Craig](https
 Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://github.com/yowill), [Jesse Taggert](https://github.com/jtag), [Dave Zvenyach](https://github.com/vzvenyach), [Shashank Khandelwal](https://github.com/khandelwal), [Mark Headd](https://github.com/mheadd), [Alan Altas](https://github.com/AlanAtlas), [Jacob Kaplan-Moss](https://github.com/jacobian), [Nikki Lee](https://github.com/nkkl), [Ed Mullen](https://github.com/edmullen)
 
 **Links:**
+- [Leadership and innovation at California's Child Welfare Services](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/)
+- [California takes a new approach to procurement](https://18f.gsa.gov/2016/10/28/california-takes-new-approach-procurement/)
+- [From 1,500 pages to 10: Helping California buy a new Child Welfare System](https://18f.gsa.gov/2016/03/22/helping-california-buy-a-new-child-welfare-system/)
 - [Internal project README on Google Drive](https://docs.google.com/document/d/1GS94L-39JxKk74ODmYZMpu_1wV4V85q5JCeEpZQJ8p8/edit) 🔒
  
 ---
