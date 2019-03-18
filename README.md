@@ -65,6 +65,21 @@ Previous: [Vicki McFadden](https://github.com/vickimcfadden), [Greg Walker](http
 
 ---
 
+### 10x Data Federation (w FNS Child Nutrition)	
+
+The Food and Nutrition Service (FNS) at the USDA provides free and reduced-price meals through the National School Lunch Program and School Breakfast Program. Part of administering this program requires states to collect and aggregate data from school districts and submit them to FNS. Though the standards for the data are set by FNS, state offices have primary responsibility for ensuring data quality, and currently go through a process of both automated and manual checks to ward against errors that would require a lengthy and burdensome remediation process. 
+
+Currently funded through 10x, the U.S. Data Federation, an initiative to create reusable tools and repeatable processes for federated data efforts, has partnered with FNS to create a centralized rules service, maintained by FNS and accessed by state systems via API. Instead of fifty states creating and maintaining separate edit-check systems, the states will all access one central system, significantly reducing effort, cost, and time devoted to data verification. 
+
+**Current team:** [Philip Ashlock](https://github.com/philipashlock), [Tim Baxter](https://github.com/tbaxter-18f), [Mark Headd](https://github.com/mheadd), [Ethan Heppner](https://github.com/ethanheppner), [Julia Lindpaintner](https://github.com/juliaklindpaintner), [Amy Mok](https://github.com/amymok)
+
+**Links:**
+- [Github Repo for U.S. Data Federation](https://github.com/18F/data-federation-project) 
+- [Github Repo for FNS Data Validation Service](https://github.com/18F/usda-fns-ingest)
+- [18F Blog post](https://18f.gsa.gov/2019/03/05/the-us-data-federation/)
+
+---
+
 ### HHS/CMS Advance Planning Document(APD) modernization
 In addition to our state work, we are partnering directly with the Centers for Medicare & Medicaid Services (CMS) to identify opportunities to make changes at the federal level to help states be more successful in their efforts to modernize their Medicaid systems.  
 
@@ -162,10 +177,8 @@ The Women's Bureau at the Department of Labor works to support States that are i
 - [Explanation deck](https://github.com/18F/Paid-Leave-Prototype/blob/18f-pages/Paid%20Leave%20Prototype%20Deck.pdf)
 - [Project Google Docs](https://goo.gl/nDwNso)
 
----
 
-### 10x Data Federation (w FNS Child Nutrition)	
-_more info coming soon_
+---
 
 ### HHS/CMS Multi-program enrollment prototype	
 _more info coming soon_
