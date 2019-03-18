@@ -171,7 +171,7 @@ The Women's Bureau at the Department of Labor works to support States that are i
 **People:**
 [Jessie Posilkin](https://github.com/jposi), [Robin Carnahan](https://github.com/robincarnahan), [Waldo Jaquith](https://github.com/waldoj), [Andrew Maier](andrewmaier)
 
-**Links**
+**Links:**
 - [Prototype](https://paid-leave-prototype.18f.gov/)
 - [Github Repo](https://github.com/18F/Paid-Leave-Prototype/blob/18f-pages/README.md)
 - [Explanation deck](https://github.com/18F/Paid-Leave-Prototype/blob/18f-pages/Paid%20Leave%20Prototype%20Deck.pdf)
@@ -195,7 +195,9 @@ https://goo.gl/bBm4RV
 ### Web-Based Prototype Application for Free and Reduced Price School Meals 
 Our [PIF](https://presidentialinnovationfellows.gov) colleagues worked with USDA's Food and Nutrition Service School Meals program to develop an electronic prototype application that is intended to be a model for how State and local program operators (or their designated vendors) may develop an effective and fully compliant electronic/online application for school meal benefits. The FNS School Meals team later collaborated on our U.S. Data Federation project.
 
-**Links**
+**People:** Presidential Innovation Fellows, primarily [Ross Dakin](https://github.com/rossdakin)
+
+**Links:**
 
 - [Web-Based Prototype Application for Free and Reduced Price School Meals](https://www.fns.usda.gov/school-meals/web-based-prototype-application)
 - [GitHub Repo (deprecated)](https://goo.gl/F6nV13)	
