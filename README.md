@@ -240,7 +240,7 @@ The Social Security Administration's Office of Disability and Adjudication Revie
 
 ---
 
-### HHS/CMS w MO, MN, & WY - MMIS modernization path analysis	
+### HHS/CMS w MO, MN - MMIS modernization path analysis	
 In 2016, 18F entered into our first direct engagement with the Centers for Medicare & Medicaid Services (CMS). This was a 12-week path analysis to identify how we could best assist CMS in better supporting states’ efforts to modernize their Medicaid IT systems (which CMS oversees and provides 90% of the funds for). This project led to [follow-on work with CMS](https://github.com/18F/human-services#hhscms-advance-planning-documentapd-modernization) to explore a more streamlined approach to the process by which states submit funding requests to CMS, as well as [direct follow-on work with the state of Missouri](https://github.com/18F/human-services#missouri-medicaid-management-information-system-mmis-modernization) to assist them in developing a modular procurement strategy for their MMIS procurement.  
 
 **People:** [Alex Pandel](https://github.com/alexpandel), [Jessie Posilkin](https://github.com/jposi), [Fureigh](https://github.com/fureigh), [Robin Carnahan](https://github.com/robincarnahan), [Dave Zvenyach](https://github.com/vzvenyach), [Greg Walker](https://github.com/mgwalker), [Randy Hart](https://github.com/randyhart)
