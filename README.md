@@ -28,6 +28,22 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
+---
+
+### HHS - SAMHSA Opioid Treatment Locator
+
+SAMHSA’s (Substance Abuse and Mental Health Services Administration) mission is to reduce the impact of substance abuse and mental health in America’s communities. SAMHSA is the only federal clearinghouse for substance abuse treatment location information.
+
+The goal of this project is to improve the experience of people visiting SAMHSA in search of treatment options or resources. When people look for information about substance abuse treatment, they need clear answers to the questions, and the answers they need may vary based on who is asking (someone looking for treatment for themselves vs someone looking for treatment for a loved one). The project is currently in the discovery phase, focused on understanding the problem space in order to identify a path toward build a welcoming and empathetic service for people trying to find the right kind of substance abuse treatment. 
+
+**People:***
+
+Current: [Allison Norman](https://github.com/allisonnorman), [Joe Krzystan](https://github.com/Jkrzy), [Norah Maki](https://github.com/NorahMaki), [Cordelia Yu](https://github.com/thebestsophist), [Kathryn Connolly](https://github.com/MKathrynC)
+
+Previous: [Maya Benari](https://github.com/maya)
+
+**Links:**
+- [Internal project README](https://docs.google.com/document/d/1lFKhp5ouelLOUS3xGIaPqTJ2mjTn9RlplosUhjBwR10/edit#heading=h.4rb5mtrewwe6) 🔒
 
 ---
 
