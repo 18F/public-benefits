@@ -54,7 +54,7 @@ Our team has been partnering with the Alaska Department of Health & Social Servi
 
 Current: [Mark Headd](https://github.com/mheadd), [Elizabeth Ayers](https://github.com/ecayer), [Amy Ashida](https://github.com/amyashida), [Clint Troxel](https://github.com/ctro), [Randy Hart](https://github.com/randyhart)
 
-Previous: [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly)
+Previous: [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly), [Robin Carnahan](https://github.com/robincarnahan)
 
 **Links:**
 - [Main Project repo](https://github.com/AlaskaDHSS/EIS-Modernization)
@@ -105,7 +105,7 @@ Our current focus is on exploring ways to streamline the process by which states
 
 Current: [Nikki Lee](https://github.com/nkkl), [Laura Poncé](https://github.com/lauraponce), [Greg Walker](https://github.com/mgwalker), [James Hupp](https://github.com/jameshupp), [Heather Battaglia](https://github.com/hbillings)
 
-Previous: [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn)
+Previous: [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn), [Robin Carnahan](https://github.com/robincarnahan)
 
 **Links:**
 - [Github repo](https://github.com/18F/cms-hitech-apd)
@@ -245,7 +245,7 @@ The Social Security Administration's Office of Disability and Adjudication Revie
 ---
 
 ### HHS/CMS w MO, MN - modernization path analysis	
-In 2016, 18F entered into our first direct engagement with the Centers for Medicare & Medicaid Services (CMS). This was a 12-week path analysis to identify how we could best assist CMS in better supporting states’ efforts to modernize their Medicaid IT systems (which CMS oversees and provides 90% of the funds for). This project led to [follow-on work with CMS](https://github.com/18F/human-services#hhscms-advance-planning-documentapd-modernization) to explore a more streamlined approach to the process by which states submit funding requests to CMS, as well as [direct follow-on work with the state of Missouri](https://github.com/18F/human-services#missouri-medicaid-management-information-system-mmis-modernization) to assist them in developing a modular procurement strategy for their MMIS procurement.  
+In 2016, 18F entered into our first direct engagement with the Centers for Medicare & Medicaid Services (CMS). This was a 12-week path analysis to identify how we could best assist CMS in better supporting states’ efforts to modernize their Medicaid IT systems (which CMS oversees and provides funds for). This project led to [follow-on work with CMS](https://github.com/18F/human-services#hhscms-advance-planning-documentapd-modernization) to explore a more streamlined approach to the process by which states submit funding requests to CMS, as well as [direct follow-on work with the state of Missouri](https://github.com/18F/human-services#missouri-medicaid-management-information-system-mmis-modernization) to assist them in developing a modular procurement strategy for their procurement.  
 
 **People:** [Alex Pandel](https://github.com/alexpandel), [Jessie Posilkin](https://github.com/jposi), [Fureigh](https://github.com/fureigh), [Robin Carnahan](https://github.com/robincarnahan), [Dave Zvenyach](https://github.com/vzvenyach), [Greg Walker](https://github.com/mgwalker), [Randy Hart](https://github.com/randyhart)
 
@@ -256,7 +256,7 @@ In 2016, 18F entered into our first direct engagement with the Centers for Medic
 ---
 
 ### HHS/ACYF w MS, CT, MD - Child Welfare path analysis	
-In 2016, 18F entered into an engagement with the federal Administration of Children, Youth and Families (ACYF) at HHS to explore ways to better assist states in modernizing their child welfare management IT systems. (ACYF oversees and provides significant funding for these state systems.) 18F led a series on on-site workshops for states’ child welfare agencies on modern software development and modular procurement approaches,including support for the state of Mississippi’s first  “agile vendor pool” to allow state agencies to more quickly hire IT contractors prepared to do agile development work.
+In 2016, 18F entered into an engagement with the federal Administration of Children, Youth and Families (ACYF) at HHS to explore ways to better assist states in modernizing their child welfare management IT systems. (ACYF oversees and provides significant funding for these state systems.) 18F led a series on on-site workshops for states’ child welfare agencies on modern software development and modular procurement approaches,including support for the state of [Mississippi’s first  “agile vendor pool”](https://18f.gsa.gov/2016/09/20/mississippi-agile-modular-techniques-child-welfare-system/) to allow state agencies to more quickly hire IT contractors prepared to do agile development work.
 
 **People:** [Zac Cohn](https://github.com/zacharycohn), [Mark Hopson](https://github.com/MCHopson), [Greg Walker](https://github.com/mgwalker), [Vraj Mohan](https://github.com/vrajmohan), [Esther Praske](https://github.com/estherkpraske), [Jesse Taggert](https://github.com/jtag), [Robin Carnahan](https://github.com/robincarnahan)
 
