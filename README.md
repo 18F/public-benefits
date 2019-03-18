@@ -212,7 +212,7 @@ The team conducted research into the user experience of enrolling in and providi
 ---
 
 ### Missouri Medicaid modernization 	
-Following our initial collaboration with the State of Missouri through our [first engagement with CMS](https://github.com/18F/human-services#hhscms-w-mo-mn--wy---mmis-modernization-path-analysis), we began working directly with the state to assist in the development of a modular procurement strategy for modernizing their systems. After the initial on-site discovery workshop, the state team determined that a better first project would be a premium collections module within their eligibility system. 18F collaborated with the state team on ways to use wireframes and prototypes to understand the constraints of their existing systems and better scope their follow-on RFP.
+Following our initial collaboration with the State of Missouri through our [first engagement with CMS](https://github.com/18F/human-services#hhscms-w-mo-mn--wy---mmis-modernization-path-analysis), we began working directly with the state to assist in the development of a modular procurement strategy for modernizing their systems. After the initial on-site discovery workshop, the state team determined that the first project should be a premium collections module within their eligibility system. 18F collaborated with the state team on ways to use wireframes and prototypes to understand the constraints of their existing systems and better scope their follow-on RFP.
 
 **People:**
 [Jessie Posilkin](https://github.com/jposi),[Greg Walker](https://github.com/mgwalker), [Steven Reilly](https://github.com/stvnrlly), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Randy Hart](https://github.com/randyhart), [Dave Zvenyach](https://github.com/vzvenyach), [Alex Pandel](https://github.com/alexpandel), [Fureigh](https://github.com/fureigh), [Robin Carnahan](https://github.com/robincarnahan)
@@ -244,7 +244,7 @@ The Social Security Administration's Office of Disability and Adjudication Revie
 
 ---
 
-### HHS/CMS w MO, MN - MMIS modernization path analysis	
+### HHS/CMS w MO, MN - modernization path analysis	
 In 2016, 18F entered into our first direct engagement with the Centers for Medicare & Medicaid Services (CMS). This was a 12-week path analysis to identify how we could best assist CMS in better supporting states’ efforts to modernize their Medicaid IT systems (which CMS oversees and provides 90% of the funds for). This project led to [follow-on work with CMS](https://github.com/18F/human-services#hhscms-advance-planning-documentapd-modernization) to explore a more streamlined approach to the process by which states submit funding requests to CMS, as well as [direct follow-on work with the state of Missouri](https://github.com/18F/human-services#missouri-medicaid-management-information-system-mmis-modernization) to assist them in developing a modular procurement strategy for their MMIS procurement.  
 
 **People:** [Alex Pandel](https://github.com/alexpandel), [Jessie Posilkin](https://github.com/jposi), [Fureigh](https://github.com/fureigh), [Robin Carnahan](https://github.com/robincarnahan), [Dave Zvenyach](https://github.com/vzvenyach), [Greg Walker](https://github.com/mgwalker), [Randy Hart](https://github.com/randyhart)
