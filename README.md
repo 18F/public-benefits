@@ -103,9 +103,9 @@ Our current focus is on exploring ways to streamline the process by which states
 
 **People**:
 
-Current: [Nikki Lee](https://github.com/nkkl), [Laura Poncé](https://github.com/lauraponce), [Greg Walker](https://github.com/mgwalker), [James Hupp](https://github.com/jameshupp), [Heather Battaglia](https://github.com/hbillings)
+Current: [Nikki Lee](https://github.com/nkkl), [Laura Poncé](https://github.com/lauraponce), [Greg Walker](https://github.com/mgwalker), [James Hupp](https://github.com/jameshupp), [Heather Battaglia](https://github.com/hbillings), [Austin Hernandez](https://github.com/austinhernandez)
 
-Previous: [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn), [Robin Carnahan](https://github.com/robincarnahan)
+Previous: Jennifer Thibault(https://github.com/jenniferthibault), [Aviva Oskow](https://github.com/avivaoskow), [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn), [Robin Carnahan](https://github.com/robincarnahan)
 
 **Links:**
 - [Github repo](https://github.com/18F/cms-hitech-apd)
