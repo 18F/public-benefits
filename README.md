@@ -87,7 +87,7 @@ The Food and Nutrition Service (FNS) at the USDA provides free and reduced-price
 
 Currently funded through 10x, the U.S. Data Federation, an initiative to create reusable tools and repeatable processes for federated data efforts, has partnered with FNS to create a centralized rules service, maintained by FNS and accessed by state systems via API. Instead of fifty states creating and maintaining separate edit-check systems, the states will all access one central system, significantly reducing effort, cost, and time devoted to data verification. 
 
-**Current team:** [Philip Ashlock](https://github.com/philipashlock), [Tim Baxter](https://github.com/tbaxter-18f), [Mark Headd](https://github.com/mheadd), [Ethan Heppner](https://github.com/ethanheppner), [Julia Lindpaintner](https://github.com/juliaklindpaintner), [Amy Mok](https://github.com/amymok)
+**Current team:** [Philip Ashlock](https://github.com/philipashlock), [Tim Baxter](https://github.com/tbaxter-18f), [Mark Headd](https://github.com/mheadd), [Ethan Heppner](https://github.com/ethanheppner), [Julia Lindpaintner](https://github.com/juliaklindpaintner), [Amy Mok](https://github.com/amymok), [Mike Gintz](https://github.com/sawtoothwave)
 
 **Links:**
 - [Github Repo for U.S. Data Federation](https://github.com/18F/data-federation-project) 
