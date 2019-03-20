@@ -139,7 +139,7 @@ Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Mul
 
 Current: [Allison Norman](https://github.com/allisonnorman), [Colin Craig](https://github.com/cacraig), [Robin Carnahan](https://github.com/robincarnahan), [Alex Pandel](https://github.com/alexpandel), [Clint Troxel](https://github.com/ctro)
 
-Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://github.com/yowill), [Jesse Taggert](https://github.com/jtag), [Dave Zvenyach](https://github.com/vzvenyach), [Shashank Khandelwal](https://github.com/khandelwal), [Mark Headd](https://github.com/mheadd), [Alan Altas](https://github.com/AlanAtlas), [Jacob Kaplan-Moss](https://github.com/jacobian), [Nikki Lee](https://github.com/nkkl), [Ed Mullen](https://github.com/edmullen)
+Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://github.com/yowill), [Jesse Taggert](https://github.com/jtag), [Dave Zvenyach](https://github.com/vzvenyach), [Shashank Khandelwal](https://github.com/khandelwal), [Mark Headd](https://github.com/mheadd), [Alan Altas](https://github.com/AlanAtlas), [Jacob Kaplan-Moss](https://github.com/jacobian), [Nikki Lee](https://github.com/nkkl), [Ed Mullen](https://github.com/edmullen), [Alan deLevie](https://github.com/adelevie), [Esther Praske](https://github.com/estherkpraske)
 
 **Links:**
 - [Leadership and innovation at California's Child Welfare Services](https://18f.gsa.gov/2016/11/17/leadership-innovation-california-child-welfare-services/)
