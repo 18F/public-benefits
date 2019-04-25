@@ -109,6 +109,7 @@ Previous: Jennifer Thibault(https://github.com/jenniferthibault), [Aviva Oskow](
 
 **Links:**
 - [Github repo](https://github.com/18F/cms-hitech-apd)
+- [eAPD app](https://eapd.cms.gov) 🔒
 - [Internal project README on Google Drive](https://docs.google.com/document/d/1XoU-hlGuGGdcierT95sBOpM4rvP_KW9qRqFslnjVGV8/edit) 🔒
  
 ---
