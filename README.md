@@ -283,4 +283,14 @@ Through an initial 4-week investigation sprint funded by GSA’s [10x incubator 
 - [shortform pitch in repo](https://github.com/18F/eligibility-rules-service/blob/master/assets/10x-EE-Phase1-Short-Pitch.pdf)
 - [Github repo](https://github.com/18F/eligibility-rules-service)
 
+---
 
+### HHS/ORR Unaccompanied Alien Children Portal
+
+18F was invited to review the Unaccompanied Alien Children’s Portal and database to assess its health and make recommendations that ensure the agency can fulfil its mission. During our initial discovery, we conducted technical analysis, developed a modernization approach, and provided procurement recommendations. During a subsequent phase, we worked with Office of Refugee Resettlement (ORR) staff to iteratively develop a prototype scheduling application that would assist capacity planning and train staff on modern product management and software development methods.
+
+**People:** [Ed Mullen](https://github.com/edmullen), [Randy Hart](https://github.com/randyhart), [Kane Baccigalupi](https://github.com/baccigalupi), [Greg Walker](https://github.com/mgwalker), [Jesse Taggert](https://github.com/jtag), [Catherine Devlin](https://github.com/catherinedevlin)
+
+**Links:**
+- [Unaccompanied Children dashboard](https://github.com/18F/hhs-acf-uc-dashboard)
+- [Unaccompanied Children Reporting API](https://github.com/18F/hhs-acf-uc-api)
