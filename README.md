@@ -24,6 +24,10 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 - **The approach:** We can proactively and publicly share our lessons learned, crafting influential communications and materials that help shape the direction of the broader movement, even advocating for policy change where possible (what 18F has done for general best practices in gov tech, we can do specifically for the human services community).
 
 
+## Resources
+
+- **[MESC 2019](https://github.com/18F/mesc2019)** - See resources from two presentations from Portfolio staff at the Medicaid Enterprise Systems Conference.
+
 ## Current projects
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
