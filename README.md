@@ -2,7 +2,7 @@
 This repo is an index of work in the human services space led by teams within GSA's [Technology Transformation Service (TTS)](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services) (which includes [18F](https://18f.gsa.gov/)).
 
 ## About the portfolio
-Over the last two-plus years, several teams within TTS have worked on a number of projects that fall within the human services space. This body of work has led to a deeper understanding of the challenges of the space from a variety of angles. We believe we can increase our potential for impact by approaching this as a cohesive body of work and making thoughtful choices about how and where we engage moving forward.
+Since 2016, several teams within TTS have worked on a number of projects that fall within the human services space. This body of work has led to a deeper understanding of the challenges of the space from a variety of angles. 18F formalized this body of work into a distinct portfolio in 2018, with the goal of increasing our potential for impact and making thoughtful choices about how and where we engage in this space moving forward.
 
 ### Our vision
 We envision a world where:
@@ -26,7 +26,7 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 ## Resources
 
-- **[MESC 2019](https://github.com/18F/mesc2019)** - See resources from two presentations from Portfolio staff at the Medicaid Enterprise Systems Conference.
+- **[MESC 2019](https://github.com/18F/mesc2019)** - Resources from two presentations from Portfolio staff at the 2019 Medicaid Enterprise Systems Conference.
 
 ## Current projects
 
@@ -42,9 +42,9 @@ The goal of this project is to improve the experience of people visiting SAMHSA 
 
 **People:***
 
-Current: [Allison Norman](https://github.com/allisonnorman), [Joe Krzystan](https://github.com/Jkrzy), [Norah Maki](https://github.com/NorahMaki), [Cordelia Yu](https://github.com/thebestsophist), [Kathryn Connolly](https://github.com/MKathrynC)
+Current: [Allison Norman](https://github.com/allisonnorman), [Joe Krzystan](https://github.com/Jkrzy),  [Kathryn Connolly](https://github.com/MKathrynC), [Austin Hernandez](https://github.com/austinhernandez), [Ben Peterson](https://github.com/bpdesigns), [Amanda Costello](https://github.com/amandacostello), [David Corwin](https://github.com/davemcorwin)
 
-Previous: [Maya Benari](https://github.com/maya)
+Previous: [Nick Ng](https://github.com/nickttng), [Brian Hurst](https://github.com/hursey013), [Norah Maki](https://github.com/NorahMaki), [Cordelia Yu](https://github.com/thebestsophist), [Maya Benari](https://github.com/maya)
 
 **Links:**
 - [Internal project README](https://docs.google.com/document/d/1lFKhp5ouelLOUS3xGIaPqTJ2mjTn9RlplosUhjBwR10/edit#heading=h.4rb5mtrewwe6) 🔒
@@ -56,9 +56,9 @@ Our team has been partnering with the Alaska Department of Health & Social Servi
 
 **People**:
 
-Current: [Mark Headd](https://github.com/mheadd), [Elizabeth Ayers](https://github.com/ecayer), [Amy Ashida](https://github.com/amyashida), [Clint Troxel](https://github.com/ctro), [Randy Hart](https://github.com/randyhart)
+Current: [Ryan Ahearn](https://github.com/rahearn), [Clint Troxel](https://github.com/ctro), [Randy Hart](https://github.com/randyhart), [Carrie Feher](https://github.com/carrielfeher)
 
-Previous: [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly), [Robin Carnahan](https://github.com/robincarnahan)
+Previous: [Mark Headd](https://github.com/mheadd), [Elizabeth Ayer](https://github.com/ecayer), [Amy Ashida](https://github.com/amyashida), [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly), [Robin Carnahan](https://github.com/robincarnahan)
 
 **Links:**
 - [Main Project repo](https://github.com/AlaskaDHSS/EIS-Modernization)
@@ -74,9 +74,9 @@ Our team has been partnering with the State of Vermont for the last 18 months to
 
 **People**:
 
-Current: [Alicia Rouault](https://github.com/arouault), [Randy Hart](https://github.com/randyhart), [Amy Ashida](https://github.com/amyashida), [Steven Reilly](https://github.com/stvnrlly), [Hannah Kane](https://github.com/hannahkane),  [Alex Pandel](https://github.com/alexpandel) 
+Current: [Amy Ashida](https://github.com/amyashida), [Steven Reilly](https://github.com/stvnrlly), [Randy Hart](https://github.com/randyhart), [Carrie Feher](https://github.com/carrielfeher)
 
-Previous: [Vicki McFadden](https://github.com/vickimcfadden), [Greg Walker](https://github.com/mgwalker), [Mark Hopson](https://github.com/MCHopson), [Nikki Lee](https://github.com/nkkl), [Robin Carnahan](https://github.com/robincarnahan), [Jessie Posilkin](https://github.com/jposi), [Andrew Burnes](https://github.com/apburnes)
+Previous: [Hannah Kane](https://github.com/hannahkane),  [Alex Pandel](https://github.com/alexpandel), [Alicia Rouault](https://github.com/arouault), [Vicki McFadden](https://github.com/vickimcfadden), [Greg Walker](https://github.com/mgwalker), [Mark Hopson](https://github.com/MCHopson), [Nikki Lee](https://github.com/nkkl), [Robin Carnahan](https://github.com/robincarnahan), [Jessie Posilkin](https://github.com/jposi), [Andrew Burnes](https://github.com/apburnes)
 
 **Links:**
 - [Main Program Repo](https://github.com/VermontAHS/IEE-Program)
@@ -91,7 +91,11 @@ The Food and Nutrition Service (FNS) at the USDA provides free and reduced-price
 
 Currently funded through 10x, the U.S. Data Federation, an initiative to create reusable tools and repeatable processes for federated data efforts, has partnered with FNS to create a centralized rules service, maintained by FNS and accessed by state systems via API. Instead of fifty states creating and maintaining separate edit-check systems, the states will all access one central system, significantly reducing effort, cost, and time devoted to data verification. 
 
-**Current team:** [Philip Ashlock](https://github.com/philipashlock), [Tim Baxter](https://github.com/tbaxter-18f), [Mark Headd](https://github.com/mheadd), [Ethan Heppner](https://github.com/ethanheppner), [Julia Lindpaintner](https://github.com/juliaklindpaintner), [Amy Mok](https://github.com/amymok), [Mike Gintz](https://github.com/sawtoothwave)
+**People**: 
+
+Current: [Julia Lindpaintner](https://github.com/juliaklindpaintner), [Mike Gintz](https://github.com/sawtoothwave)
+
+previous: [Amy Mok](https://github.com/amymok), [Philip Ashlock](https://github.com/philipashlock), [Tim Baxter](https://github.com/tbaxter-18f), [Mark Headd](https://github.com/mheadd), [Ethan Heppner](https://github.com/ethanheppner)
 
 **Links:**
 - [Github Repo for U.S. Data Federation](https://github.com/18F/data-federation-project) 
@@ -107,9 +111,9 @@ Our current focus is on exploring ways to streamline the process by which states
 
 **People**:
 
-Current: [Nikki Lee](https://github.com/nkkl), [Laura Poncé](https://github.com/lauraponce), [Greg Walker](https://github.com/mgwalker), [James Hupp](https://github.com/jameshupp), [Heather Battaglia](https://github.com/hbillings), [Austin Hernandez](https://github.com/austinhernandez)
+Current: [Nikki Lee](https://github.com/nkkl), [Laura Poncé](https://github.com/lauraponce), [Greg Walker](https://github.com/mgwalker), [Heather Battaglia](https://github.com/hbillings)
 
-Previous: Jennifer Thibault(https://github.com/jenniferthibault), [Aviva Oskow](https://github.com/avivaoskow), [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn), [Robin Carnahan](https://github.com/robincarnahan)
+Previous: [Austin Hernandez](https://github.com/austinhernandez), [James Hupp](https://github.com/jameshupp), [Jennifer Thibault](https://github.com/jenniferthibault), [Aviva Oskow](https://github.com/avivaoskow), [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn), [Robin Carnahan](https://github.com/robincarnahan)
 
 **Links:**
 - [Github repo](https://github.com/18F/cms-hitech-apd)
@@ -123,9 +127,9 @@ The eligibility rules service project is exploring the idea of providing shared 
 
 **People:**
 
-Current: [Ed Mullen](https://github.com/edmullen), [Vraj Mohan](https://github.com/vrajmohan), [Adam Biagianti](https://github.com/el-mapache), [Alex Pandel](https://github.com/alexpandel)
+Current: [Mike Gintz](https://github.com/sawtoothwave), [Ed Mullen](https://github.com/edmullen) 
 
-Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Muller](https://github.com/shawnique)
+Previous: [Vraj Mohan](https://github.com/vrajmohan), [Adam Biagianti](https://github.com/el-mapache), [Alex Pandel](https://github.com/alexpandel), [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Muller](https://github.com/shawnique)
 
 **Links:** 
 - [GitHub repo](https://github.com/18F/eligibility-rules-service)
@@ -142,7 +146,7 @@ Previous: [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Mul
 
 **People**:
 
-Current: [Allison Norman](https://github.com/allisonnorman), [Colin Craig](https://github.com/cacraig), [Robin Carnahan](https://github.com/robincarnahan), [Alex Pandel](https://github.com/alexpandel), [Clint Troxel](https://github.com/ctro)
+Most recent team: [Allison Norman](https://github.com/allisonnorman), [Colin Craig](https://github.com/cacraig), [Robin Carnahan](https://github.com/robincarnahan), [Alex Pandel](https://github.com/alexpandel), [Clint Troxel](https://github.com/ctro)
 
 Previous: [CM Lubinski](https://github.com/cmc333333), [Will Sullivan](https://github.com/yowill), [Jesse Taggert](https://github.com/jtag), [Dave Zvenyach](https://github.com/vzvenyach), [Shashank Khandelwal](https://github.com/khandelwal), [Mark Headd](https://github.com/mheadd), [Alan Altas](https://github.com/AlanAtlas), [Jacob Kaplan-Moss](https://github.com/jacobian), [Nikki Lee](https://github.com/nkkl), [Ed Mullen](https://github.com/edmullen), [Alan deLevie](https://github.com/adelevie), [Esther Praske](https://github.com/estherkpraske)
 
