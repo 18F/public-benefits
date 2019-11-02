@@ -40,13 +40,14 @@ SAMHSA’s (Substance Abuse and Mental Health Services Administration) mission i
 
 The goal of this project is to improve the experience of people visiting SAMHSA in search of treatment options or resources. When people look for information about substance abuse treatment, they need clear answers to the questions, and the answers they need may vary based on who is asking (someone looking for treatment for themselves vs someone looking for treatment for a loved one). The project is currently in the discovery phase, focused on understanding the problem space in order to identify a path toward build a welcoming and empathetic service for people trying to find the right kind of substance abuse treatment. 
 
-**People:***
+**People:**
 
 Current: [Allison Norman](https://github.com/allisonnorman), [Joe Krzystan](https://github.com/Jkrzy),  [Kathryn Connolly](https://github.com/MKathrynC), [Austin Hernandez](https://github.com/austinhernandez), [Ben Peterson](https://github.com/bpdesigns), [Amanda Costello](https://github.com/amandacostello), [David Corwin](https://github.com/davemcorwin)
 
 Previous: [Nick Ng](https://github.com/nickttng), [Brian Hurst](https://github.com/hursey013), [Norah Maki](https://github.com/NorahMaki), [Cordelia Yu](https://github.com/thebestsophist), [Maya Benari](https://github.com/maya)
 
 **Links:**
+- Live site: https://findtreatment.gov/
 - [Internal project README](https://docs.google.com/document/d/1lFKhp5ouelLOUS3xGIaPqTJ2mjTn9RlplosUhjBwR10/edit#heading=h.4rb5mtrewwe6) 🔒
 
 ---
