@@ -30,7 +30,6 @@ twitter_username: 18F
 github_username:  18F
 
 # Build settings
-# theme: minima
 plugins:
   - jekyll-feed
 
