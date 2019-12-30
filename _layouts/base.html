@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/uswds.min.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
   <div class="usa-banner">
@@ -52,7 +53,7 @@
   <header class="usa-header usa-header--extended">
     <div class="usa-navbar">
       <div class="usa-logo" id="extended-logo">
-        <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">18F Human Services Portfolio</a></em>
+        <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">18F's Human Services Portfolio</a></em>
       </div>
       <button class="usa-menu-btn">Menu</button>
     </div>
@@ -94,9 +95,7 @@
     </nav>
   </header>
   <main id="main-content">
-    <div class="grid-container usa-section">
-      {{ content }}
-    </div>
+    {{ content }}
   </main>
   <script src="{{ site.baseurl }}/assets/js/uswds.min.js"></script>
 </body>
