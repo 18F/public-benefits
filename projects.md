@@ -26,7 +26,21 @@ Previous: [Hannah Kane](https://github.com/hannahkane),  [Alex Pandel](https://g
 
 ---
 
-## Placeholder - Office of Head Start
+## Office of Head Start - Training and Technical Assistance Data Platform
+
+The Head Start program promotes school readiness for children under 5 years old from low-income families. HHS's Administration for Children and Families (ACF)’s [Office of Head Start (OHS)](https://www.acf.hhs.gov/ohs/) oversees grant funding to local agencies providing Head Start services. OHS’s federal oversight responsibilities require significant grants management and a robust system of [Training and Technical Assistance (TTA)](https://www.acf.hhs.gov/ohs/assistance), designed to strengthen grantee performance in accordance with federal standards so every enrolled child is prepared for success in school. However, TTA data collection is fragmented, and data is housed in 27 disconnected platforms, including a limited and unscalable legacy system.
+
+OHS is engaging 18F to help OHS procure a centralized system for relevant TTA data, to track and analyze their work through a combined Path Analysis and Experimentation and Iteration approach, with the potential to also execute an assisted acquisition. OHS is engaging 18F to help them identify and define the scope of the procurement for a new, modular TTA platform.
+
+TTA Data Product Vision: To better serve children and families in Head Start programs, the TTA Data Platform will help staff at all levels make data-informed decisions that continuously improve Head Start services.
+
+**People:**
+
+Current: Carrie Ferrer, [Matt Dobson](https://github.com/matt-dobson), [Robert Jolly](https://github.com/iamjolly), [Ryan Ahearn](https://github.com/rahearn), and [Randy Hart](https://github.com/randyhart).
+
+**Links:**
+- [Internal project Living Deck on Google Drive](https://docs.google.com/presentation/d/1a59WpiUm2NW3tebcZqrMqo8Zj6Ofcfip8bOd_E2u5UI/edit?usp=sharing) 🔒
+- [GitHub Repo](https://github.com/18F/Head-Start-TTA)
 
 ---
 
