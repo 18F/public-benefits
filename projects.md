@@ -36,7 +36,7 @@ TTA Data Product Vision: To better serve children and families in Head Start pro
 
 **People:**
 
-Current: [Carrie Ferrer](https://github.com/carrielfeher), [Matt Dobson](https://github.com/matt-dobson), [Robert Jolly](https://github.com/iamjolly), [Ryan Ahearn](https://github.com/rahearn), and [Randy Hart](https://github.com/randyhart).
+Current: [Carrie Feher](https://github.com/carrielfeher), [Matt Dobson](https://github.com/matt-dobson), [Robert Jolly](https://github.com/iamjolly), [Ryan Ahearn](https://github.com/rahearn), and [Randy Hart](https://github.com/randyhart).
 
 **Links:**
 - [Internal project Living Deck on Google Drive](https://docs.google.com/presentation/d/1a59WpiUm2NW3tebcZqrMqo8Zj6Ofcfip8bOd_E2u5UI/edit?usp=sharing) 🔒
