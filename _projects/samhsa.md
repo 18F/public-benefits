@@ -1,7 +1,7 @@
 ---
-name: 
+name: FindTreatment.gov
 
-summary:
+summary: SAMHSA’s online treatment locator is the authoritative national resource for treatment provider information. 
 
 start_date:
 

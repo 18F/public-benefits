@@ -12,7 +12,7 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 {% for project in site.projects %}
   {% if forloop.first %}<ul>{% endif %}
-    <li>{{ project.partner }}</li>
+    <li>{{ project.partner }} - {{ project.name }} <br>{{ project.summary }}</li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
