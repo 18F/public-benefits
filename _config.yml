@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 # Collections
-collection:
+collections:
   projects:
     output: true
     permalink: /projects/:path/
