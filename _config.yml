@@ -38,6 +38,7 @@ collection:
   projects:
     output: true
     permalink: /projects/:path/
+    layout: project
 
 # Exclude from processing.
 # The following items will not be processed, by default.
