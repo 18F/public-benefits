@@ -1,5 +1,7 @@
 ---
-name: Training and Technical Assistance (TTA) Data Platform
+short_name: Office of Head Start
+
+project_name: Training and Technical Assistance (TTA) Data Platform
 
 path: /projects/ohs-tta/
 
@@ -7,11 +9,13 @@ summary: Improving the grant oversight process for programs that provide trainin
 
 start_date: 09/30/2019
 
-end_date:
+end_date: present
 
 current: true
 
-partner: Office of Head Start
+partner: Administration for Children and Families
+
+partner_url: https://www.acf.hhs.gov/
 
 people:
 - Matt Dobson

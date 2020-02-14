@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <title>{{ page.short_name | page.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/uswds.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
@@ -71,7 +71,7 @@
             <a class="usa-nav__link" href="{{ site.baseurl }}/about/"><span>About the portfolio</span></a>
           </li>
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link" href="{{ site.baseurl }}/projects/"><span>Projects</span></a>
+            <a class="usa-nav__link" href="{{ site.baseurl }}/projects/"><span>Our work</span></a>
           </li>
         </ul>
         <!-- <div class="usa-nav__secondary">

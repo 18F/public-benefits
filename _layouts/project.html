@@ -5,6 +5,11 @@ layout: base
 <div id="banner"></div>
 <div class="grid-container usa-section">
   <!-- put front-matter tags outside content -->
-  <p>{{ page.partner }}</p>
+  <p idea="trail">Our work > {{ page.short_name }}</p>
+  <h1>CASE STUDY: {{ page.project_name }}</h1>
+  <p id="summary">{{ page.summary }}</p>
+  <p><strong>DURATION:</strong> {{ page.start_date }} - {{ page.end_date }}</p>
+  
+
   {{ content }}
 </div>
