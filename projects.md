@@ -4,15 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
-{% for project in site.projects %}
-  <p>{{ project.partner }}</p>
-{% endfor %}
-
 # Current projects
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
 ---
+
+{% for project in site.projects %}
+  {% if forloop.first %}<ul>{% endif %}
+    <li>{{ project.partner }}</li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
 
 ## HHS - SAMHSA Opioid Treatment Locator
 
