@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
-  <title>{{ page.short_name }} | {{ page.title }}</title>
+  <title>{% if page.title %}{{ page.title }} |{% elsif page.short_name %} {{ page.short_name }} |{% endif %} {{ site.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/uswds.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
