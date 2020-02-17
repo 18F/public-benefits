@@ -20,3 +20,59 @@
 #summary {
   
 }
+
+/* Projects listing styles */
+ul.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
+  list-style-type: none;
+  padding: unset;
+}
+
+ul.projects > li {
+  border: 1px solid #e9e9e9;
+  border-radius: .5rem;
+}
+
+a.project-link {
+  text-decoration: none;
+}
+
+a.project-link, a.project-link:active, a.project-link:visited {
+  color: unset;
+}
+
+a.project-link:hover, a.project-link:focus {
+  text-decoration: underline;
+  color: rgb(32, 41, 95);  
+}
+
+ul.projects > li > a > figure {
+  height: 120px;
+  overflow: hidden;
+  border-top-left-radius: .5rem;
+  border-top-right-radius: .5rem;
+  position: relative;
+  background-color: #e9e9e9;
+  margin: 0;
+}
+
+img.project-logo {
+  max-width: 120px;
+  max-height: 120px;
+  float: left;
+  padding: 1rem;
+}
+
+.project-info {
+  padding: 0.5rem 1rem;
+}
+
+.project-info > h2 > span {
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  display: block;
+  margin: -0.5rem 0 0.5rem;
+}

@@ -11,8 +11,20 @@ We have worked with partners at the federal, state, and local levels learning ab
 ---
 
 {% for project in site.projects %}
-  {% if forloop.first %}<ul>{% endif %}
-    <li>{{ project.partner }} - {{ project.name }} <br>{{ project.summary }}</li>
+  {% if forloop.first %}<ul class="projects">{% endif %}
+    <li class="project">
+      <a href="{{ project.url }}" class="project-link">
+        <figure>
+          {% if project.logo %}<img src="{{ site.baseurl }}{{ project.logo }}" alt="" class="project-logo">{% endif %}
+        </figure>
+        <div class="project-info">
+          <h2>
+            <span>{{ project.partner }}</span>
+            {{ project.project_name }}
+          </h2>
+        </div>
+      </a>
+    </li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
