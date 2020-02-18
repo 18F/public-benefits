@@ -24,7 +24,7 @@
 /* Projects listing styles */
 ul.projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-gap: 1rem;
   list-style-type: none;
   padding: unset;
@@ -75,4 +75,5 @@ img.project-logo {
   text-transform: uppercase;
   display: block;
   margin: -0.5rem 0 0.5rem;
+  height: 2rem;
 }
