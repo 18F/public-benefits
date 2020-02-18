@@ -35,6 +35,10 @@ ul.projects > li {
   border-radius: .5rem;
 }
 
+li.project:focus-within, li.project:hover {
+  box-shadow: 0 0 0 0.25rem;
+}
+
 a.project-link {
   text-decoration: none;
 }
@@ -44,8 +48,7 @@ a.project-link, a.project-link:active, a.project-link:visited {
 }
 
 a.project-link:hover, a.project-link:focus {
-  text-decoration: underline;
-  color: rgb(32, 41, 95);  
+  color: rgb(2, 31, 158);  
 }
 
 ul.projects > li > a > figure {
