@@ -36,7 +36,7 @@ ul.projects > li {
 }
 
 li.project:focus-within, li.project:hover {
-  box-shadow: 0 0 0 0.25rem;
+  box-shadow: 0 0 0 0.25rem #2491ff; 
 }
 
 a.project-link {
@@ -48,7 +48,7 @@ a.project-link, a.project-link:active, a.project-link:visited {
 }
 
 a.project-link:hover, a.project-link:focus {
-  color: rgb(2, 31, 158);  
+  color: #005ea2;  
 }
 
 ul.projects > li > a > figure {
