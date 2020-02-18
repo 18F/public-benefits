@@ -13,7 +13,7 @@ We have worked with partners at the federal, state, and local levels learning ab
 {% for project in site.projects %}
   {% if forloop.first %}<ul class="projects">{% endif %}
     <li class="project">
-      <a href="{{ project.url }}" class="project-link">
+      <a href="{{ site.baseurl }}{{ project.url }}" class="project-link">
         <figure>
           {% if project.logo %}<img src="{{ site.baseurl }}{{ project.logo }}" alt="" class="project-logo">{% endif %}
         </figure>
