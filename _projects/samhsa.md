@@ -17,4 +17,11 @@ current:
 
 people:
 
+resources:
+
+categories:
+- path analysis
+- experiment and iterate
+- assisted acquisition
+
 ---

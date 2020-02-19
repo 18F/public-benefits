@@ -22,11 +22,22 @@ We have worked with partners at the federal, state, and local levels learning ab
             <span>{{ project.partner }}</span>
             {{ project.project_name }}
           </h2>
+          <p>
+            {% for c in project.categories %}
+              {% if forloop.first %}{{ c }}{% else %} | {{ c }}{% endif %} 
+            {% endfor %}
+          </p>
         </div>
       </a>
     </li>
   {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
+
+---
+
+<marquee><strong>Notice: </strong>Below here is old content. It will be replaced with updated info in the cards format above this.</marquee>
+
+---
 
 ## HHS - SAMHSA Opioid Treatment Locator
 

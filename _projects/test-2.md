@@ -17,4 +17,10 @@ current: true
 
 people:
 
+resources:
+
+categories:
+- pouncing
+- treats
+
 ---

@@ -22,4 +22,18 @@ people:
 - Randy Hart
 - Carrie Feher
 
+resources:
+- title: GitHub Repository
+  link: https://github.com/18F/Head-Start-TTA
+- title: Some other link
+  link: https://18f.gsa.gov/
+
+categories:
+- path analysis
+- experiment and iterate
+- assisted acquisition
+- data platform
+
 ---
+
+Some content that tells the story here.
