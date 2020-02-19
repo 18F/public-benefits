@@ -24,7 +24,7 @@
 /* Projects listing styles */
 ul.projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-gap: 1rem;
   list-style-type: none;
   padding: unset;
@@ -32,7 +32,7 @@ ul.projects {
 
 ul.projects > li {
   border: 1px solid #e9e9e9;
-  border-radius: .5rem;
+  border-radius: .25rem;
 }
 
 li.project:focus-within, li.project:hover {
@@ -54,8 +54,8 @@ a.project-link:hover, a.project-link:focus {
 ul.projects > li > a > figure {
   height: 120px;
   overflow: hidden;
-  border-top-left-radius: .5rem;
-  border-top-right-radius: .5rem;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
   position: relative;
   background-color: #e9e9e9;
   margin: 0;
