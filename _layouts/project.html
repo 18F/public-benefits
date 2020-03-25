@@ -4,7 +4,7 @@ layout: base
 <section class="usa-section case-study-header">
   <div class="grid-container">
     <!-- put front-matter tags outside content -->
-    <p id="trail"><a href="{{ site.url}}/projects/">Our work</a> > {{ page.short_name }}</p>
+    <p id="trail"><a href="{{ site.baseurl }}/projects/">Our work</a> > {{ page.short_name }}</p>
     <h1><span>Case Study:</span> {{ page.project_name }}</h1>
     <p id="summary">{{ page.summary }}</p>
     <div class="project-meta">
@@ -25,7 +25,7 @@ layout: base
       {% if page.resources.size > 0 %}
         <ul>
         {% for rs in page.resources %}
-            <li><a href="{{ rs.link }}">{% if rs.type=="github" %}<img src="{{ site.url}}/assets/img/icons/github.svg" class="meta-icon" alt="">{% endif %}{{ rs.title }}</a></li>
+            <li><a href="{{ rs.link }}">{% if rs.type=="github" %}<img src="{{ site.baseurl }}/assets/img/icons/github.svg" class="meta-icon" alt="">{% endif %}{{ rs.title }}</a></li>
         {% endfor %}
         </ul>
       {% endif %}
