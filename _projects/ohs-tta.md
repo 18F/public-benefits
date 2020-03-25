@@ -1,5 +1,6 @@
 ---
-short_name: OHS TTA Data
+class: project-detail
+short_name: Office of Head Start TTA Data
 project_name: Training and Technical Assistance (TTA) Data Platform
 partner: Office of Head Start
 partner_url: https://www.acf.hhs.gov/ohs/
@@ -22,10 +23,19 @@ people:
 - Randy Hart
 - Carrie Feher
 
+roles:
+- Product Management
+- Design
+- Research
+- Engineering
+- Acquisitions
+
 resources:
-- title: GitHub Repository
+- type: github
+  title: GitHub Repository
   link: https://github.com/18F/Head-Start-TTA
-- title: Some other link
+- type: link
+  title: Some other link
   link: https://18f.gsa.gov/
 
 categories:
@@ -34,6 +44,45 @@ categories:
 - assisted acquisition
 - data platform
 
----
+problems:
+- Disconnected data systems which use manual & offline processes
+- No complete picture of how TTA is used or success metrics
+- Lack of clear & consistent reporting because planning and tracking is not coordinated
 
-Some content that tells the story here.
+approach:
+- Stakeholder and user research across levels and regions
+- Scoping a Minimum Viable Product (MVP) based on real user stories
+- Hiring a vendor to build the complete production system through an Assisted Acquisition
+
+hypothesis:
+- Centralizing the Training & Technical Assistance (TTA) request and activity tracking process will help elevate insights into TTA activities happening across their region and provide more effective help for their Head Start grantees.
+
+---
+{::nomarkdown}
+{% include project-section.html type="start" class="bg-blue-5 project-story" %}
+{:/}
+
+## What we’ve learned so far
+
+Today, much of the data related to TTA activity isn’t readily available to the TTA Central Office.
+{:.project-quote}
+
+### Communication is inefficient
+
+Lack of integrated data sources make it hard to know what action is happening at glance. Communication is dependent on informal human systems.
+
+### Lack of coordination
+
+Lack of visibility in different parts of the system can result in duplication of efforts.
+
+### Mismatch of resources and needs
+
+Resources developed by the National Centers may not meet Regional needs as they shift from year to year.
+
+### Progress is hard to quantify
+
+It is difficult to measure or track any success metric over time.
+
+{::nomarkdown}
+{% include project-section.html type="end" %}
+{:/}

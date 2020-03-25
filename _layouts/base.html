@@ -94,7 +94,7 @@
       </div>
     </nav>
   </header>
-  <main id="main-content">
+  <main id="main-content" {% if page.class %}class="{{ page.class }}"{% endif %}>
     {{ content }}
   </main>
   <script src="{{ site.baseurl }}/assets/js/uswds.min.js"></script>

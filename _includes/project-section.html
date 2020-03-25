@@ -1,0 +1,8 @@
+{%- if include.type == "start" -%}
+<section class="usa-section {% if include.class %}{{ include.class }}{% endif %}">
+  <div class="grid-container">
+{%- endif -%}
+{%- if include.type == "end" -%}
+  </div>
+</section>
+{%- endif -%}
