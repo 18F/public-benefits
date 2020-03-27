@@ -1,0 +1,10 @@
+<figure class="project-{{ include.side }}">
+  {% if include.url %}
+    <a href="{{ include.url }}">
+  {% endif %}
+    <img src="{{ site.baseurl }}/assets/img/projects/{{ include.file }}" alt="{{ include.alt }}"/>
+  {% if include.url %}
+    </a>
+  {% endif %}
+    <figcaption>{{ include.caption }}</figcaption>
+ </figure>

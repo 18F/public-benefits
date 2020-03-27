@@ -63,4 +63,12 @@ layout: base
 
 {{ content }}
 
+<section class="usa-section project-team">
+  <div class="grid-container">
+    <h2>The team</h2>
+    <p>18F: 
+      {% for p in page.people %}{{ p }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+    </p>
+  </div>
+</section>
 <!-- This is a work in progress. -->
