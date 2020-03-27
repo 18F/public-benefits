@@ -97,11 +97,12 @@ It is difficult to measure or track any success metric over time.
 
 ## What’s next
 
+<div class="project-story-left">
+  <p>Through our research and initial prioritization of opportunities, we’ve determined that the ‘Activity Reporting & Analysis’ phase in the TTA process is a good place to begin exploring solutions. An MVP focused on Program Specialists is an opportunity to digitize the TTA request process which will provide a centralized place where these users can track activity through to completion and get a more complete view of progress over time and across topic areas.</p>
+</div>
 {::nomarkdown}
-{% include project-image.html side="right" file="ohstta-current.png" caption="Figure showing the complexities of the TTA system with multiple data sources and consumers." %}
+{% include project-image.html side="right" file="ohsttamvp-map.png" caption="A central system for incoming TTA activity data with an API layer to serve all audiences." %}
 {:/}
-
-Through our research and initial prioritization of opportunities, we’ve determined that the ‘Activity Reporting & Analysis’ phase in the TTA process is a good place to begin exploring solutions. An MVP focused on Program Specialists is an opportunity to digitize the TTA request process which will provide a centralized place where these users can track activity through to completion and get a more complete view of progress over time and across topic areas.
 
 {::nomarkdown}
 {% include project-section.html type="end" %}

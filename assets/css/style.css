@@ -130,7 +130,7 @@ p, li {
 
 .project-story-left  {
   float: left;
-  max-width: 50%;
+  max-width: 55%;
 }
 
 .project-detail .usa-section p.project-quote-right {
@@ -139,19 +139,23 @@ p, li {
   font-style: italic;
   line-height: 2.666rem;
   float: right;
-  max-width: 50%;
+  max-width: 40%;
 }
 
+.project-story figure {
+  margin: 0 1rem;
+}
 
 figure.project-right {
   float: right;
   max-width: 40%;
+  margin-right: 0;
 }
 
 figure.project-left {
   float: left;
   max-width: 40%;
-  border-right: 2px solid #5b5b5bac;
+  margin-left: 0;
 }
 
 .project-story figure > figcaption {
