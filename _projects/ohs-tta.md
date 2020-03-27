@@ -64,12 +64,12 @@ hypothesis:
 
 ## What we’ve learned so far
 
+Today, much of the data related to TTA activity isn’t readily available to the TTA Central Office.
+{:.project-quote .project-quote-left}
+
 {::nomarkdown}
 {% include project-image.html side="right" file="ohstta-current.png" caption="Figure showing the complexities of the TTA system with multiple data sources and consumers." %}
 {:/}
-
-Today, much of the data related to TTA activity isn’t readily available to the TTA Central Office.
-{:.project-quote}
 
 ### Communication is inefficient
 

@@ -128,7 +128,7 @@ p, li {
   line-height: 2.666rem;
 }
 
-.project-story-left  {
+.project-story-left, .project-quote-left {
   float: left;
   max-width: 55%;
 }
@@ -165,13 +165,13 @@ figure.project-left {
 }
 
 /* Project details page >> mobile styles */
-@media only screen and (max-device-width: 768px) {
+@media (max-width: 767px) {
 
   .project-detail .usa-section p.project-quote {
     margin-left: unset;
   }
 
-  .project-story-left  {
+  .project-story-left, .project-quote-left {
     float: unset;
     max-width: unset;
   }
