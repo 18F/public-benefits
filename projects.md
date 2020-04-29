@@ -8,6 +8,7 @@ permalink: /projects/
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
+
 ---
 
 {% for project in site.projects %}
@@ -40,42 +41,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 ---
 
 ## HHS - SAMHSA Opioid Treatment Locator
-
-SAMHSA’s (Substance Abuse and Mental Health Services Administration) mission is to reduce the impact of substance abuse and mental health in America’s communities. SAMHSA is the only federal clearinghouse for substance abuse treatment location information.
-
-The goal of this project is to improve the experience of people visiting SAMHSA in search of treatment options or resources. When people look for information about substance abuse treatment, they need clear answers to the questions, and the answers they need may vary based on who is asking (someone looking for treatment for themselves vs someone looking for treatment for a loved one). The project is currently in the discovery phase, focused on understanding the problem space in order to identify a path toward build a welcoming and empathetic service for people trying to find the right kind of substance abuse treatment.
-
-**People:**
-
-Current: [Allison Norman](https://github.com/allisonnorman), [Joe Krzystan](https://github.com/Jkrzy),  [Kathryn Connolly](https://github.com/MKathrynC), [Austin Hernandez](https://github.com/austinhernandez), [Ben Peterson](https://github.com/bpdesigns), [Amanda Costello](https://github.com/amandacostello), [David Corwin](https://github.com/davemcorwin)
-
-Previous: [Nick Ng](https://github.com/nickttng), [Brian Hurst](https://github.com/hursey013), [Norah Maki](https://github.com/NorahMaki), [Cordelia Yu](https://github.com/thebestsophist), [Maya Benari](https://github.com/maya)
-
-**Links:**
-- Live site: https://findtreatment.gov/
-- [Internal project README](https://docs.google.com/document/d/1lFKhp5ouelLOUS3xGIaPqTJ2mjTn9RlplosUhjBwR10/edit#heading=h.4rb5mtrewwe6) 🔒
-
----
-
-## Alaska Eligibility & Enrollment (E&E) modernization
-Our team has been partnering with the Alaska Department of Health & Social Services, Division of Public Assistance (DPA) for the last two years to help them take an iterative, user-centered and modular approach to procuring and building a modern, integrated eligibility system. DPA's goal in this modernization effort is to enable staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs, in a manner that not only meets state and federal standards, but is user friendly for their clients, their eligibility staff, and their technical staff.
-
-**People**:
-
-Current: [Ryan Ahearn](https://github.com/rahearn), [Clint Troxel](https://github.com/ctro), [Randy Hart](https://github.com/randyhart), [Carrie Feher](https://github.com/carrielfeher)
-
-Previous: [Mark Headd](https://github.com/mheadd), [Elizabeth Ayer](https://github.com/ecayer), [Amy Ashida](https://github.com/amyashida), [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly), [Robin Carnahan](https://github.com/robincarnahan)
-
-**Links:**
-- [Main Project repo](https://github.com/AlaskaDHSS/EIS-Modernization)
-- [First modular RFP](https://github.com/AlaskaDHSS/RFP-Search-Unification)
-- [First vendor-delivered module](https://github.com/AlaskaDHSS/Dpa-Eisr-UnifiedSearch)
-- [First procurement postmortem](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/first-buy-postmortem.md)
-
-
----
+=======
 
 ## Vermont E&E modernization
+
 Our team has been partnering with the State of Vermont for the last 18 months to help them pursue a modular, iterative procurement strategy to move towards an Integrated Eligibility & Enrollment system and incrementally migrate away from their legacy systems, with the goal of better serving state staff who administer public benefits like Medicaid and SNAP to Vermont residents.
 
 **People**:
@@ -88,6 +57,68 @@ Previous: [Hannah Kane](https://github.com/hannahkane),  [Alex Pandel](https://g
 - [Main Program Repo](https://github.com/VermontAHS/IEE-Program)
 - [Internal project README for Year 1 on Google Drive](https://docs.google.com/document/d/1lB1UeFubbIg_Rcg5pDc7eLjwMsKkWNTQGReQxeHWppg/edit#) 🔒
 - [Internal project README for Year 2 on Google Drive](https://docs.google.com/document/d/17zkT-7mxjVrJuwu--tqafqQPSIGq2XdGVnIq0lV4VCs/edit#) 🔒
+
+---
+
+## Office of Head Start - Training and Technical Assistance Data Platform
+
+The Head Start program promotes school readiness for children under 5 years old from low-income families. HHS's Administration for Children and Families (ACF)’s [Office of Head Start (OHS)](https://www.acf.hhs.gov/ohs/) oversees grant funding to local agencies providing Head Start services. OHS’s federal oversight responsibilities require significant grants management and a robust system of [Training and Technical Assistance (TTA)](https://www.acf.hhs.gov/ohs/assistance), designed to strengthen grantee performance in accordance with federal standards so every enrolled child is prepared for success in school. However, TTA data collection is fragmented, and data is housed in 27 disconnected platforms, including a limited and unscalable legacy system.
+
+OHS is engaging 18F to help OHS procure a centralized system for relevant TTA data, to track and analyze their work through a combined Path Analysis and Experimentation and Iteration approach, with the potential to also execute an assisted acquisition. OHS is engaging 18F to help them identify and define the scope of the procurement for a new, modular TTA platform.
+
+TTA Data Product Vision: To better serve children and families in Head Start programs, the TTA Data Platform will help staff at all levels make data-informed decisions that continuously improve Head Start services.
+
+**People:**
+
+Current: [Carrie Feher](https://github.com/carrielfeher), [Matt Dobson](https://github.com/matt-dobson), [Robert Jolly](https://github.com/iamjolly), [Ryan Ahearn](https://github.com/rahearn), and [Randy Hart](https://github.com/randyhart).
+
+**Links:**
+- [Internal project Living Deck on Google Drive](https://docs.google.com/presentation/d/1a59WpiUm2NW3tebcZqrMqo8Zj6Ofcfip8bOd_E2u5UI/edit?usp=sharing) 🔒
+- [GitHub Repo](https://github.com/18F/Head-Start-TTA)
+
+---
+
+## Placeholder - TANF
+
+---
+
+## Placeholder CMS MACPro
+
+---
+
+## 10x E&E - Eligibility rules service
+The eligibility rules service project is exploring the idea of providing shared web services that states could use to help make eligibility determinations for human services programs. Currently funded through [10x](https://10x.gsa.gov/), we are working with the SNAP team at FNS exploring the feasibility of a rules service for the D-SNAP program and an accompanying online registration form.
+
+**People:**
+
+Current: [Mike Gintz](https://github.com/sawtoothwave), [Ed Mullen](https://github.com/edmullen)
+
+Previous: [Vraj Mohan](https://github.com/vrajmohan), [Adam Biagianti](https://github.com/el-mapache), [Alex Pandel](https://github.com/alexpandel), [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Muller](https://github.com/shawnique)
+
+**Links:**
+- [GitHub repo](https://github.com/18F/eligibility-rules-service)
+- Presentation: [_What is the Eligibility Rules Service project?_](https://github.com/18F/eligibility-rules-service/blob/master/assets/what-is-the-eligibility-rules-service-project.pdf)
+- [Internal project README on Google Drive](https://drive.google.com/open?id=1Sn_DiI9CnFBgcv0bHwFtXEN6iNOz7h1jKXBLizQ6TMo) 🔒
+
+---
+
+## HHS/CMS Advance Planning Document(APD) modernization
+In addition to our state work, we are partnering directly with the Centers for Medicare & Medicaid Services (CMS) to identify opportunities to make changes at the federal level to help states be more successful in their efforts to modernize their Medicaid systems.  
+
+Our current focus is on exploring ways to streamline the process by which states submit their project plans (called Advance Planning Documents, or APDs) for funding approval by CMS. We're starting by prototyping a web form states can use to build and submit their APD in a standardized way, focusing first on just HITECH APDs. The goal is to simplify the process for states by making the process formalized and well-defined, and to help CMS reach funding decisions more quickly so states spend less time waiting to find out if they’re getting money.
+
+**People**:
+
+Current: [Nikki Lee](https://github.com/nkkl), [Laura Poncé](https://github.com/lauraponce), [Greg Walker](https://github.com/mgwalker), [Heather Battaglia](https://github.com/hbillings)
+
+Previous: [Austin Hernandez](https://github.com/austinhernandez), [James Hupp](https://github.com/jameshupp), [Jennifer Thibault](https://github.com/jenniferthibault), [Aviva Oskow](https://github.com/avivaoskow), [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn), [Robin Carnahan](https://github.com/robincarnahan)
+
+**Links:**
+- [Github repo](https://github.com/18F/cms-hitech-apd)
+- [eAPD app](https://eapd.cms.gov) 🔒
+- [Internal project README on Google Drive](https://docs.google.com/document/d/1XoU-hlGuGGdcierT95sBOpM4rvP_KW9qRqFslnjVGV8/edit) 🔒
+
+
 
 ---
 
@@ -110,42 +141,42 @@ previous: [Amy Mok](https://github.com/amymok), [Philip Ashlock](https://github.
 
 ---
 
-## HHS/CMS Advance Planning Document(APD) modernization
-In addition to our state work, we are partnering directly with the Centers for Medicare & Medicaid Services (CMS) to identify opportunities to make changes at the federal level to help states be more successful in their efforts to modernize their Medicaid systems.  
-
-Our current focus is on exploring ways to streamline the process by which states submit their project plans (called Advance Planning Documents, or APDs) for funding approval by CMS. We're starting by prototyping a web form states can use to build and submit their APD in a standardized way, focusing first on just HITECH APDs. The goal is to simplify the process for states by making the process formalized and well-defined, and to help CMS reach funding decisions more quickly so states spend less time waiting to find out if they’re getting money.
-
-**People**:
-
-Current: [Nikki Lee](https://github.com/nkkl), [Laura Poncé](https://github.com/lauraponce), [Greg Walker](https://github.com/mgwalker), [Heather Battaglia](https://github.com/hbillings)
-
-Previous: [Austin Hernandez](https://github.com/austinhernandez), [James Hupp](https://github.com/jameshupp), [Jennifer Thibault](https://github.com/jenniferthibault), [Aviva Oskow](https://github.com/avivaoskow), [Ron Bronson](https://github.com/quarterback), [Brendan Sudol](https://github.com/brendansudol), [Nicole Fenton](https://github.com/nicoleslaw), [Meghana Khandekar](https://github.com/mkhandekar), [Nick Brethauer](https://github.com/brethauer), [Alex Pandel](https://github.com/alexpandel), [Dan Williams](https://github.com/thisisdano), [Zac Cohn](https://github.com/zacharycohn), [Robin Carnahan](https://github.com/robincarnahan)
-
-**Links:**
-- [Github repo](https://github.com/18F/cms-hitech-apd)
-- [eAPD app](https://eapd.cms.gov) 🔒
-- [Internal project README on Google Drive](https://docs.google.com/document/d/1XoU-hlGuGGdcierT95sBOpM4rvP_KW9qRqFslnjVGV8/edit) 🔒
-
----
-
-## 10x E&E - Eligibility rules service
-The eligibility rules service project is exploring the idea of providing shared web services that states could use to help make eligibility determinations for human services programs. Currently funded through [10x](https://10x.gsa.gov/), we are working with the SNAP team at FNS exploring the feasibility of a rules service for the D-SNAP program and an accompanying online registration form.
-
-**People:**
-
-Current: [Mike Gintz](https://github.com/sawtoothwave), [Ed Mullen](https://github.com/edmullen)
-
-Previous: [Vraj Mohan](https://github.com/vrajmohan), [Adam Biagianti](https://github.com/el-mapache), [Alex Pandel](https://github.com/alexpandel), [Catherine Devlin](https://github.com/catherinedevlin), [Shawnique Muller](https://github.com/shawnique)
-
-**Links:**
-- [GitHub repo](https://github.com/18F/eligibility-rules-service)
-- Presentation: [_What is the Eligibility Rules Service project?_](https://github.com/18F/eligibility-rules-service/blob/master/assets/what-is-the-eligibility-rules-service-project.pdf)
-- [Internal project README on Google Drive](https://drive.google.com/open?id=1Sn_DiI9CnFBgcv0bHwFtXEN6iNOz7h1jKXBLizQ6TMo) 🔒
-
-
 # Past Projects
 
 ---
+## HHS - SAMHSA Opioid Treatment Locator
+
+SAMHSA’s (Substance Abuse and Mental Health Services Administration) mission is to reduce the impact of substance abuse and mental health in America’s communities. SAMHSA is the only federal clearinghouse for substance abuse treatment location information.
+
+The goal of this project is to improve the experience of people visiting SAMHSA in search of treatment options or resources. When people look for information about substance abuse treatment, they need clear answers to the questions, and the answers they need may vary based on who is asking (someone looking for treatment for themselves vs someone looking for treatment for a loved one). The project is currently in the discovery phase, focused on understanding the problem space in order to identify a path toward build a welcoming and empathetic service for people trying to find the right kind of substance abuse treatment.
+
+**People:**
+
+Most recent team: [Allison Norman](https://github.com/allisonnorman), [Joe Krzystan](https://github.com/Jkrzy),  [Kathryn Connolly](https://github.com/MKathrynC), [Austin Hernandez](https://github.com/austinhernandez), [Ben Peterson](https://github.com/bpdesigns), [Amanda Costello](https://github.com/amandacostello), [David Corwin](https://github.com/davemcorwin)
+
+Previous: [Nick Ng](https://github.com/nickttng), [Brian Hurst](https://github.com/hursey013), [Norah Maki](https://github.com/NorahMaki), [Cordelia Yu](https://github.com/thebestsophist), [Maya Benari](https://github.com/maya)
+
+**Links:**
+- Live site: https://findtreatment.gov/
+- [Internal project README](https://docs.google.com/document/d/1lFKhp5ouelLOUS3xGIaPqTJ2mjTn9RlplosUhjBwR10/edit#heading=h.4rb5mtrewwe6) 🔒
+
+---
+
+## Alaska Eligibility & Enrollment (E&E) modernization
+Our team has been partnering with the Alaska Department of Health & Social Services, Division of Public Assistance (DPA) for the last two years to help them take an iterative, user-centered and modular approach to procuring and building a modern, integrated eligibility system. DPA's goal in this modernization effort is to enable staff to more efficiently issue correct and timely benefits to Alaskans who need help meeting their basic needs, in a manner that not only meets state and federal standards, but is user friendly for their clients, their eligibility staff, and their technical staff.
+
+**People**:
+
+Most recent team: [Ryan Ahearn](https://github.com/rahearn), [Clint Troxel](https://github.com/ctro), [Randy Hart](https://github.com/randyhart), [Carrie Feher](https://github.com/carrielfeher)
+
+Previous: [Mark Headd](https://github.com/mheadd), [Elizabeth Ayer](https://github.com/ecayer), [Amy Ashida](https://github.com/amyashida), [Waldo Jaquith](https://github.com/waldoj), [Michael Torres](https://github.com/mtorres253), [Ed Mullen](https://github.com/edmullen), [Steven Reilly](https://github.com/stvnrlly), [Robin Carnahan](https://github.com/robincarnahan)
+
+**Links:**
+- [Main Project repo](https://github.com/AlaskaDHSS/EIS-Modernization)
+- [First modular RFP](https://github.com/AlaskaDHSS/RFP-Search-Unification)
+- [First vendor-delivered module](https://github.com/AlaskaDHSS/Dpa-Eisr-UnifiedSearch)
+- [First procurement postmortem](https://github.com/AlaskaDHSS/EIS-Modernization/blob/master/first-buy-postmortem.md)
+
 
 ## California Child Welfare modernization
 18F has been partnering with the California Child Welfare Digital Services (CWDS) team since 2015. CWDS is a collaboration of state and local government agencies dedicated to building a new child welfare information system that responds to users’ needs while maintaining the best standards for security and data integrity. The goal is for CWDS to develop a strategy for building a new, intuitive, user-centric system that will have a direct impact on child safety, permanency, and well-being. The scope of the project includes supporting CWDS by providing hands on support to product owners, improving agile practices, and evaluating product and technical strategy.
