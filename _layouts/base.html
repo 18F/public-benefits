@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
 <head>
   <meta charset="utf-8">
-  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+  <title>{% if page.project_name %}{{ page.project_name }} |{% elsif page.short_name %} {{ page.short_name }} |{% elsif page.title %} {{ page.title }} |{% endif %} {{ site.title }}</title>
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/uswds.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
@@ -71,7 +72,7 @@
             <a class="usa-nav__link" href="{{ site.baseurl }}/about/"><span>About the portfolio</span></a>
           </li>
           <li class="usa-nav__primary-item">
-            <a class="usa-nav__link" href="{{ site.baseurl }}/projects/"><span>Projects</span></a>
+            <a class="usa-nav__link" href="{{ site.baseurl }}/projects/"><span>Our work</span></a>
           </li>
         </ul>
         <!-- <div class="usa-nav__secondary">
@@ -94,7 +95,7 @@
       </div>
     </nav>
   </header>
-  <main id="main-content">
+  <main id="main-content" {% if page.class %}class="{{ page.class }}"{% endif %}>
     {{ content }}
   </main>
   <script src="{{ site.baseurl }}/assets/js/uswds.min.js"></script>

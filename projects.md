@@ -3,6 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
 # Current projects
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
@@ -10,7 +11,40 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 ---
 
+{% for project in site.projects %}
+  {% if forloop.first %}<ul class="projects">{% endif %}
+    <li class="project">
+      <a href="{{ site.baseurl }}{{ project.url }}" class="project-link">
+        <figure>
+          {% if project.logo %}<img src="{{ site.baseurl }}{{ project.logo }}" alt="" class="project-logo">{% endif %}
+        </figure>
+        <div class="project-info">
+          <h2>
+            <span>{{ project.partner }}</span>
+            {{ project.project_name }}
+          </h2>
+          <p>
+            {% for c in project.categories %}
+              {% if forloop.first %}{{ c }}{% else %} | {{ c }}{% endif %} 
+            {% endfor %}
+          </p>
+        </div>
+      </a>
+    </li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+
+---
+
+<marquee><strong>Notice: </strong>Below here is old content. It will be replaced with updated info in the cards format above this.</marquee>
+
+---
+
+## HHS - SAMHSA Opioid Treatment Locator
+=======
+
 ## Vermont E&E modernization
+
 Our team has been partnering with the State of Vermont for the last 18 months to help them pursue a modular, iterative procurement strategy to move towards an Integrated Eligibility & Enrollment system and incrementally migrate away from their legacy systems, with the goal of better serving state staff who administer public benefits like Medicaid and SNAP to Vermont residents.
 
 **People**:

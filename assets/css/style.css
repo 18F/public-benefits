@@ -1,3 +1,12 @@
+/* typography overrides */
+html, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+p, li {
+  font-size: 1.1rem;
+}
+
 .usa-hero {
   background-image: linear-gradient(45deg, white, transparent);
   background-color: #18f;
@@ -11,4 +20,244 @@
   background-image: linear-gradient(45deg, white, transparent);
   background-color: #18f;
   height: 5rem;
+}
+
+#trail {
+  text-transform: uppercase;
+  word-spacing: .125rem;
+}
+
+.case-study-header {
+  background-color: #f4f4f4;
+}
+
+.project-detail .usa-section h1:before, .project-detail .usa-section h2:before {
+  content: "";
+  display: block;
+  width: 1.2rem;
+  height: 6px;
+  height: .6rem;
+  background-color: #4b4b4b;
+  margin: 1.4rem 0 0.8rem;
+}
+
+.project-detail .usa-section .project-problem-grid h2:before {
+  background-color: unset;
+  height: unset;
+  margin: unset;
+}
+
+.case-study-header h1 > span, .case-study-header li > strong {
+  text-transform: uppercase;
+}
+
+.case-study-header h1 {
+  font-size: 2.6rem;
+}
+
+#summary {
+  font-size: 2.4rem;
+}
+
+.project-meta {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
+}
+
+.project-meta ul {
+  list-style-type: none;
+  padding: unset;
+  margin: unset;
+}
+
+.project-meta li {
+  margin: 0.6rem 0;
+}
+
+.meta-icon {
+  max-width: 24px;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.bg-blue-5 {
+  background-color: #eff6fb;
+}
+
+.project-problem-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  grid-gap: 1rem;
+  line-height: 1.333rem;
+}
+
+.project-detail .usa-section .project-problem-grid h2 {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.project-problem ul {
+  padding: 0 1.2rem;
+}
+
+.project-problem li {
+  margin: 0.6rem 0;
+}
+
+.project-detail .usa-section {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  clear: both;
+}
+
+.project-detail .usa-section h2 {
+  font-size: 2.2rem;
+}
+
+.project-detail .usa-section h3 {
+  margin-bottom: 0.1rem;
+}
+
+.project-story p, .project-problem p {
+  line-height: 1.667rem;
+  margin-top: 0.1rem;
+}
+
+.project-detail .usa-section p.project-quote {
+  font-size: 2rem;
+  font-weight: 300;
+  font-style: italic;
+  margin-left: -2rem;
+  line-height: 2.666rem;
+}
+
+.project-story-left, .project-quote-left {
+  float: left;
+  max-width: 55%;
+}
+
+.project-detail .usa-section p.project-quote-right {
+  font-size: 2rem;
+  font-weight: 300;
+  font-style: italic;
+  line-height: 2.666rem;
+  float: right;
+  max-width: 40%;
+}
+
+.project-story figure {
+  margin: 0 1rem;
+}
+
+figure.project-right {
+  float: right;
+  max-width: 40%;
+  margin-right: 0;
+}
+
+figure.project-left {
+  float: left;
+  max-width: 40%;
+  margin-left: 0;
+}
+
+.project-story figure > figcaption {
+  font-size: 1rem;
+  color: #5b5b5b;
+  padding: 0.4rem;
+}
+
+/* Project details page >> mobile styles */
+@media (max-width: 767px) {
+
+  .project-detail .usa-section p.project-quote {
+    margin-left: unset;
+  }
+
+  .project-story-left, .project-quote-left {
+    float: unset;
+    max-width: unset;
+  }
+  
+  .project-detail .usa-section p.project-quote-right {
+    float: unset;
+    max-width: unset;
+  }
+  
+  figure.project-right {
+    float: unset;
+    max-width: unset;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  figure.project-left {
+    float: unset;
+    max-width: unset;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+}
+
+/* Projects listing styles */
+ul.projects {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  grid-gap: 1rem;
+  list-style-type: none;
+  padding: unset;
+}
+
+ul.projects > li {
+  border: 1px solid #e9e9e9;
+  border-radius: .25rem;
+}
+
+li.project:focus-within, li.project:hover {
+  box-shadow: 0 0 0 0.25rem #2491ff; 
+}
+
+a.project-link {
+  text-decoration: none;
+}
+
+a.project-link, a.project-link:active, a.project-link:visited {
+  color: unset;
+}
+
+a.project-link:hover, a.project-link:focus {
+  color: #005ea2;  
+}
+
+ul.projects > li > a > figure {
+  height: 120px;
+  overflow: hidden;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+  position: relative;
+  background-color: #e9e9e9;
+  margin: 0;
+}
+
+img.project-logo {
+  max-width: 120px;
+  max-height: 120px;
+  float: left;
+  padding: 1rem;
+}
+
+.project-info {
+  padding: 0.5rem 1rem;
+}
+
+.project-info > h2 > span {
+  font-size: 0.9rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  display: block;
+  margin: -0.5rem 0 0.5rem;
+  height: 2rem;
 }
