@@ -1,5 +1,6 @@
 ---
 class: project-detail
+portfolio: Human Services
 short_name: Office of Head Start TTA Data
 project_name: Training and Technical Assistance (TTA) Data Platform
 partner: Office of Head Start

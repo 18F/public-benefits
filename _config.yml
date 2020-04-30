@@ -39,6 +39,10 @@ collections:
     output: true
     permalink: /projects/:path/
     layout: project
+  portfolios:
+    output: true
+    permalink: /:path/
+    layout: portfolio
 
 defaults:
   - scope:
@@ -46,6 +50,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "portfolios"
+    values:
+      layout: "portfolio"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -1,4 +1,6 @@
 ---
+class: project-detail
+portfolio: Human Services
 short_name: FindTreatment.gov
 project_name: Redesigning a resource site to better serve people in crisis
 partner: Substance Abuse and Mental Health Services Administration
