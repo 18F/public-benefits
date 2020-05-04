@@ -28,6 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 18F
 github_username:  18F
+searchgov:
+  endpoint: https://search.usa.gov  # You should not change this.
+  affiliate: 18f-portfolios # replace this with your search.gov account 
+  access_key: fKt24Ra5fYRGQFeB9engjdERAAUUQK8aZe-tZAS1syw= # This is placeholder. Not private.
+  inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
 
 # Build settings
 plugins:

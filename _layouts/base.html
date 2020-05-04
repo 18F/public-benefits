@@ -75,6 +75,8 @@
             <a class="usa-nav__link" href="{{ site.baseurl }}/projects/"><span>Our work</span></a>
           </li>
         </ul>
+
+
         <!-- <div class="usa-nav__secondary">
           <ul class="usa-nav__secondary-links">
             <li class="usa-nav__secondary-item">
@@ -84,14 +86,8 @@
               <a href="">Another secondary link</a>
             </li>
           </ul>
-          <form class="usa-search usa-search--small ">
-            <div role="search">
-              <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
-              <input class="usa-input" id="extended-search-field-small" type="search" name="search">
-              <button class="usa-button" type="submit"><span class="usa-sr-only">Search</span></button>
-            </div>
-          </form>
         </div> -->
+        {% include searchgov/form.html searchgov=site.searchgov %}
       </div>
     </nav>
   </header>
