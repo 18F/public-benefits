@@ -3,17 +3,28 @@ html, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
-p, li {
+/* p, li {
   font-size: 1.1rem;
-}
+} */
 
-.usa-hero {
-  background-image: linear-gradient(45deg, white, transparent);
-  background-color: #18f;
+.hero {
+  background-color: #1C304A;
+  color: white;
 }
-
-.usa-hero__callout {
-  max-width: 23rem;
+.hero > .grid-container {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.hero-lead {
+  font-size: 1.3rem;
+  line-height: 3.2rem;
+}
+.hero-sub {
+  font-size: 1.5rem;
+  line-height: 2.3rem;
+}
+.hero-sub > .usa-button {
+  font-size: 1.5rem;
 }
 
 #banner {
@@ -25,6 +36,19 @@ p, li {
 #trail {
   text-transform: uppercase;
   word-spacing: .125rem;
+}
+
+.usa-search > .usa-input {
+  width: 220px;
+}
+
+.section-gray {
+  background-color: #f0f0f0;
+}
+
+.section-blue {
+  background-color: #1C304A;
+  color: #ffffff;
 }
 
 .case-study-header {
@@ -180,19 +204,19 @@ figure.project-left {
     float: unset;
     max-width: unset;
   }
-  
+
   .project-detail .usa-section p.project-quote-right {
     float: unset;
     max-width: unset;
   }
-  
+
   figure.project-right {
     float: unset;
     max-width: unset;
     text-align: center;
     margin-bottom: 2rem;
   }
-  
+
   figure.project-left {
     float: unset;
     max-width: unset;
@@ -217,7 +241,7 @@ ul.projects > li {
 }
 
 li.project:focus-within, li.project:hover {
-  box-shadow: 0 0 0 0.25rem #2491ff; 
+  box-shadow: 0 0 0 0.25rem #2491ff;
 }
 
 a.project-link {
@@ -229,7 +253,7 @@ a.project-link, a.project-link:active, a.project-link:visited {
 }
 
 a.project-link:hover, a.project-link:focus {
-  color: #005ea2;  
+  color: #005ea2;
 }
 
 ul.projects > li > a > figure {
