@@ -34,6 +34,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 ---
 
+## Past Projects
+
+---
+
 ### HHS - SAMHSA Opioid Treatment Locator
 
 SAMHSA’s (Substance Abuse and Mental Health Services Administration) mission is to reduce the impact of substance abuse and mental health in America’s communities. SAMHSA is the only federal clearinghouse for substance abuse treatment location information.
@@ -136,9 +140,6 @@ Previous: [Vraj Mohan](https://github.com/vrajmohan), [Adam Biagianti](https://g
 - [GitHub repo](https://github.com/18F/eligibility-rules-service)
 - Presentation: [_What is the Eligibility Rules Service project?_](https://github.com/18F/eligibility-rules-service/blob/master/assets/what-is-the-eligibility-rules-service-project.pdf)
 - [Internal project README on Google Drive](https://drive.google.com/open?id=1Sn_DiI9CnFBgcv0bHwFtXEN6iNOz7h1jKXBLizQ6TMo) 🔒
-
-
-## Past Projects
 
 ---
 
