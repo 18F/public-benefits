@@ -263,8 +263,8 @@ The team conducted research into the user experience of enrolling in and providi
 - [Mollie Ruskin](https://github.com/mollieru), Ginny Hunt, [Lucy Brady](https://github.com/LucyLBrady), [Clarence Wardell](https://github.com/cwardell), [Ross Dakin](https://github.com/rossdakin), [Alex Pandel](https://github.com/alexpandel), [Gail Swanson](https://github.com/GailSwanson), [Jamie Albrecht](https://github.com/jamiealbrecht), [Jeannine Hunter](https://github.com/jeanninehunter), [Meghana Khandekar](https://github.com/mkhandekar)
 
 **Links:**
-- [Research](https://goo.gl/Q7hRbK)
-- [Prototype](https://goo.gl/DCusK4)
+- [Research report](https://usds.github.io/benefits-enrollment-prototype/assets/discovery-findings-mapping-enrollment-Nov2016.pdf)
+- [Prototype](https://usds.github.io/benefits-enrollment-prototype/)
 - [Blog post](https://medium.com/the-u-s-digital-service/redesigning-the-journey-to-critical-benefits-for-americans-in-poverty-2ca068591f32)
 
 ---
@@ -288,7 +288,7 @@ Our [PIF](https://presidentialinnovationfellows.gov) colleagues worked with USDA
 **Links:**
 
 - [Web-Based Prototype Application for Free and Reduced Price School Meals](https://www.fns.usda.gov/school-meals/web-based-prototype-application)
-- [GitHub Repo (deprecated)](https://goo.gl/F6nV13)
+- [GitHub Repo (inactive)](https://github.com/presidential-innovation-fellows/school-meals)
 
 ---
 
