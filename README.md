@@ -34,20 +34,130 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
-To be added:
+### ACF Office of Head Start Training and Technical Assistance - Data platform
 
-- Wisconsin - Unemployment Insurance
-- CMS Oversight - Medicaid Enterprise Systems
-- ACF Office of Head Start Training and Technical Assistance - Data platform
-- ACF Office of Head Start - Early Childhood Learning and Knowledge Center (and shared hosting)
-- ACF Office of Family Assistance - TANF data portal
-- ACF Office of Policy Research and Evaluation - MAPS contract management
-- ACF Office of Policy Research and Evaluation - Known IT Systems evaluation
-- 10x Shared Components (IMLS closing the digital divide)
-- FNS NAC - National Accuracy Clearinghouse
-- VA OCTO
-- FNS SNAP Income Verification
-- HHS childcare.gov
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### ACF Office of Head Start - Early Childhood Learning and Knowledge Center (and shared hosting)
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### ACF Office of Family Assistance - TANF data portal
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### ACF Office of Policy Research and Evaluation - MAPS contract management
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### ACF Office of Policy Research and Evaluation - Known IT Systems evaluation
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### 10x Shared Components (IMLS closing the digital divide)
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### FNS NAC - National Accuracy Clearinghouse
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### VA OCTO
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### FNS SNAP Income Verification
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### HHS childcare.gov
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+
+### Wisconsin - Unemployment Insurance
+
+**Active**: April 2021 - present
+
+[summary]
+
+**People**
+
+Current: Brandon Kirby, Igor Korenfeld, Sasha-Ann Thompson
+
+Previous: Randy Hart, Steven Reilly, Alicia Rouault
+
+**Links**
+- Internal project README
+
+---
+
+### CMS Oversight - Medicaid Enterprise Systems
+
+[summary]
+
+**People**
+
+**Links**
 
 ---
 
@@ -75,10 +185,40 @@ To be added:
 
 To be added:
 
-- Washington - Integrated Eligibility
-- CMS MACPro - CHIP
-- SNAP
-- SNAP Retailer Authorization
+### Washington - Integrated Eligibility
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+### CMS MACPro - CHIP
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+### SNAP
+
+[summary]
+
+**People**
+
+**Links**
+
+---
+### SNAP Retailer Authorization
+
+[summary]
+
+**People**
+
+**Links**
 
 ---
 
