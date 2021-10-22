@@ -4,6 +4,8 @@ This repo is an index of work in the public benefits space led by teams within G
 ## About the portfolio
 Since 2016, several teams within TTS have worked on a number of projects that fall within the public benefits space. This body of work has led to a deeper understanding of the challenges of the space from a variety of angles. 18F formalized this body of work into a distinct portfolio in 2018, with the goal of increasing our potential for impact and making thoughtful choices about how and where we engage in this space moving forward.
 
+Read more on [the fancy portfolio website](https://portfolios.18f.gov/public-benefits).
+
 ### Our vision
 We envision a world where:
 - People actually receive the services they are eligible for.
