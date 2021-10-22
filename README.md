@@ -32,9 +32,51 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
+To be added:
+
+- Wisconsin - Unemployment Insurance
+- CMS Oversight - Medicaid Enterprise Systems
+- ACF Office of Head Start Training and Technical Assistance - Data platform
+- ACF Office of Head Start - Early Childhood Learning and Knowledge Center (and shared hosting)
+- ACF Office of Family Assistance - TANF data portal
+- ACF Office of Policy Research and Evaluation - MAPS contract management
+- ACF Office of Policy Research and Evaluation - Known IT Systems evaluation
+- 10x Shared Components (IMLS closing the digital divide)
+- FNS NAC - National Accuracy Clearinghouse
+- VA OCTO
+- FNS SNAP Income Verification
+- HHS childcare.gov
+
 ---
 
 ## Past Projects
+
+- [HHS - SAMHSA Opioid Treatment Locator](https://github.com/18F/public-benefits#hhs---samhsa-opioid-treatment-locator)
+- [Alaska Eligibility & Enrollment (E&E) modernization](https://github.com/18F/public-benefits#alaska-eligibility--enrollment-ee-modernization)
+- [Vermont E&E modernization](https://github.com/18F/public-benefits#vermont-ee-modernization)
+- [10x Data Federation (w/ FNS Child Nutrition)](https://github.com/18F/public-benefits#10x-data-federation-w-fns-child-nutrition)
+- [HHS/CMS Advance Planning Document (APD) modernization](https://github.com/18F/public-benefits#hhscms-advance-planning-document-apd-modernization)
+- [10x E&E - Eligibility rules service](https://github.com/18F/public-benefits#10x-ee---eligibility-rules-service)
+- [California Child Welfare modernization](https://github.com/18F/public-benefits#california-child-welfare-modernization)
+- [Alaska Child Welfare modernization](https://github.com/18F/public-benefits#alaska-child-welfare-modernization)
+- [USDA/SNAP State waiver path analysis](https://github.com/18F/public-benefits#usdasnap-state-waiver-path-analysis)
+- [California MEDS - Medicaid Eligibility modernization](https://github.com/18F/public-benefits#ca-meds---medicaid-eligibility-modernization)
+- [DOL/Women’s Bureau - Paid Family Leave system prototype](https://github.com/18F/public-benefits#dolwomens-bureau---paid-family-leave-system-prototype)
+- [HHS/CMS Multi-program enrollment prototype](https://github.com/18F/public-benefits#hhscms-multi-program-enrollment-prototype)
+- [Missouri Medicaid modernization](https://github.com/18F/public-benefits#missouri-medicaid-modernization)
+- [USDA - Web-Based Prototype Application for Free and Reduced Price School Meals](https://github.com/18F/public-benefits#web-based-prototype-application-for-free-and-reduced-price-school-meals)
+- [SSA - Disability case processing system](https://github.com/18F/public-benefits#ssa---disability-case-processing-system)
+- [HHS/CMS w MO, MN - modernization path analysis](https://github.com/18F/public-benefits#hhscms-w-mo-mn---modernization-path-analysis)
+- [HHS/ACYF w MS, CT, MD - Child Welfare path analysis](https://github.com/18F/public-benefits#hhsacyf-w-ms-ct-md---child-welfare-path-analysis)
+- [10x E&E (Phase 1) - investigation of public benefits landscape](https://github.com/18F/public-benefits#10x-ee-phase-1---investigation)
+- [HHS/ORR Unaccompanied Alien Children Portal](https://github.com/18F/public-benefits#hhsorr-unaccompanied-alien-children-portal)
+
+To be added:
+
+- Washington - Integrated Eligibility
+- CMS MACPro - CHIP
+- SNAP
+- SNAP Retailer Authorization
 
 ---
 
@@ -109,7 +151,7 @@ previous: [Amy Mok](https://github.com/amymok), [Philip Ashlock](https://github.
 
 ---
 
-### HHS/CMS Advance Planning Document(APD) modernization
+### HHS/CMS Advance Planning Document (APD) modernization
 In addition to our state work, we are partnering directly with the Centers for Medicare & Medicaid Services (CMS) to identify opportunities to make changes at the federal level to help states be more successful in their efforts to modernize their Medicaid systems.  
 
 Our current focus is on exploring ways to streamline the process by which states submit their project plans (called Advance Planning Documents, or APDs) for funding approval by CMS. We're starting by prototyping a web form states can use to build and submit their APD in a standardized way, focusing first on just HITECH APDs. The goal is to simplify the process for states by making the process formalized and well-defined, and to help CMS reach funding decisions more quickly so states spend less time waiting to find out if they’re getting money.
