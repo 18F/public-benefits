@@ -34,6 +34,19 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
+- [ACF Office of Head Start Training and Technical Assistance - Data platform](https://github.com/18F/public-benefits#acf-office-of-head-start-training-and-technical-assistance---data-platform)
+- [ACF Office of Head Start - Early Childhood Learning and Knowledge Center (and shared hosting)](https://github.com/18F/public-benefits#acf-office-of-head-start---early-childhood-learning-and-knowledge-center-and-shared-hosting)
+- [ACF Office of Family Assistance - TANF data portal](https://github.com/18F/public-benefits#acf-office-of-family-assistance---tanf-data-portal)
+- [ACF Office of Policy Research and Evaluation - MAPS contract management](https://github.com/18F/public-benefits#acf-office-of-policy-research-and-evaluation---maps-contract-management)
+- [ACF Office of Policy Research and Evaluation - Known IT Systems evaluation](https://github.com/18F/public-benefits#acf-office-of-policy-research-and-evaluation---known-it-systems-evaluation)
+- [10x Shared Components (IMLS closing the digital divide)](https://github.com/18F/public-benefits#10x-shared-components-imls-closing-the-digital-divide)
+- [FNS NAC - National Accuracy Clearinghouse](https://github.com/18F/public-benefits#fns-nac---national-accuracy-clearinghouse)
+- [VA OCTO](https://github.com/18F/public-benefits#va-octo)
+- [FNS SNAP Income Verification](https://github.com/18F/public-benefits#fns-snap-income-verification)
+- [HHS childcare.gov](https://github.com/18F/public-benefits#hhs-childcaregov)
+- [Wisconsin - Unemployment Insurance](https://github.com/18F/public-benefits#wisconsin---unemployment-insurance)
+- [CMS Oversight - Medicaid Enterprise Systems](https://github.com/18F/public-benefits#cms-oversight---medicaid-enterprise-systems)
+
 ### ACF Office of Head Start Training and Technical Assistance - Data platform
 
 [summary]
