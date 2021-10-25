@@ -35,7 +35,7 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
 - [ACF Office of Head Start Training and Technical Assistance - Data platform](https://github.com/18F/public-benefits#acf-office-of-head-start-training-and-technical-assistance---data-platform)
-- [ACF Office of Head Start - Early Childhood Learning and Knowledge Center (and shared hosting)](https://github.com/18F/public-benefits#acf-office-of-head-start---early-childhood-learning-and-knowledge-center-and-shared-hosting)
+- [ACF Office of Head Start - Shared infrastructure](https://github.com/18F/public-benefits#acf-office-of-head-start---shared-infrastructure)
 - [ACF Office of Family Assistance - TANF data portal](https://github.com/18F/public-benefits#acf-office-of-family-assistance---tanf-data-portal)
 - [ACF Office of Policy Research and Evaluation - MAPS contract management](https://github.com/18F/public-benefits#acf-office-of-policy-research-and-evaluation---maps-contract-management)
 - [ACF Office of Policy Research and Evaluation - Known IT Systems evaluation](https://github.com/18F/public-benefits#acf-office-of-policy-research-and-evaluation---known-it-systems-evaluation)
@@ -49,31 +49,72 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 ### ACF Office of Head Start Training and Technical Assistance - Data platform
 
-[summary]
+The Head Start program promotes school readiness for children under 5 years old
+from low-income families. HHS's Administration for Children and Families (ACF)’s
+Office of Head Start (OHS) oversees grant funding to local agencies providing
+Head Start services. OHS’s federal oversight responsibilities require
+significant grants management and a robust system of Training and Technical
+Assistance (TTA), designed to strengthen grantee performance in accordance with
+federal standards so every enrolled child is prepared for success in school.
+However, TTA data collection is fragmented, and data is housed in 27
+disconnected platforms, including a limited and unscalable legacy system.
+
+OHS is engaging 18F to help OHS procure a centralized system for relevant TTA
+data, to track and analyze their work through a combined Path Analysis and
+Experimentation and Iteration approach, with the potential to also execute an
+assisted acquisition. OHS is engaging 18F to help them identify and define the
+scope of the procurement for a new, modular TTA platform.
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
+- [OHS's project repo](https://github.com/hhs/head-start-ttadp)
+- [The TTA platform RFQ](https://github.com/18F/Head_Start_TTA_RFQ)
+- [18F's prototype](https://github.com/18F/Head-Start-TTA)
 
 ---
 
-### ACF Office of Head Start - Early Childhood Learning and Knowledge Center (and shared hosting)
+### ACF Office of Head Start - Shared infrastructure
 
 [summary]
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
+- [The ECLKC infrastructure RFQ](https://github.com/18F/Head-Start-ECLKC-Procurement)
 
 ---
 
 ### ACF Office of Family Assistance - TANF data portal
 
-[summary]
+As part of oversight and administration of the TANF Program, the Office of
+Family Assistance (OFA) operates the TANF Data Reporting System (TDRS). OFA's
+state, territory, and tribal TANF grantees submit data to TDRS that they are
+legislatively-mandated to report. OFA then aggregates the data and uses it for
+descriptive analyses and program accountability.
+
+OFA engaged 18F to develop and deploy a new data reporting system using open
+source software. 18F provided acquisition support and is now assisting with
+post-award management.
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
+- [OFA's project repo](https://github.com/HHS/TANF-app)
+- [The TDRS RFQ](https://github.com/18F/tdrs-app-rfq)
+- [Internal project README](https://docs.google.com/document/d/1Xy73vuo5jDHNxG--c9T8c0voqReXPiOAI4MLk8W0o4I/edit#heading=h.ftr1g7k7jtls) 🔒
 
 ---
 
@@ -82,6 +123,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 [summary]
 
 **People**
+
+Current:
+
+Previous:
 
 **Links**
 
@@ -93,6 +138,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
 
 ---
@@ -102,6 +151,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 [summary]
 
 **People**
+
+Current:
+
+Previous:
 
 **Links**
 
@@ -113,6 +166,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
 
 ---
@@ -122,6 +179,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 [summary]
 
 **People**
+
+Current:
+
+Previous:
 
 **Links**
 
@@ -133,6 +194,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
 
 ---
@@ -142,6 +207,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 [summary]
 
 **People**
+
+Current:
+
+Previous:
 
 **Links**
 
@@ -174,6 +243,10 @@ Previous: Randy Hart, Steven Reilly, Alicia Rouault
 [summary]
 
 **People**
+
+Current:
+
+Previous:
 
 **Links**
 
@@ -209,6 +282,10 @@ To be added:
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
 
 ---
@@ -217,6 +294,10 @@ To be added:
 [summary]
 
 **People**
+
+Current:
+
+Previous:
 
 **Links**
 
@@ -227,6 +308,10 @@ To be added:
 
 **People**
 
+Current:
+
+Previous:
+
 **Links**
 
 ---
@@ -235,6 +320,10 @@ To be added:
 [summary]
 
 **People**
+
+Current:
+
+Previous:
 
 **Links**
 
