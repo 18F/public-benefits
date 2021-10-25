@@ -138,7 +138,10 @@ We have worked with partners at the federal, state, and local levels learning ab
 
 **Active**: April 2021 - present
 
-[summary]
+Wisconsin's Department of Workforce Development administers the state's
+unemployment insurance benefits, including development and maintenance of a
+mainframe system that powers the process. DWD engaged 18F to create a
+modernization strategy and procure a vendor to help carry it out.
 
 **People**
 
@@ -147,7 +150,9 @@ Current: Brandon Kirby, Igor Korenfeld, Sasha-Ann Thompson
 Previous: Randy Hart, Steven Reilly, Alicia Rouault
 
 **Links**
-- Internal project README
+- [Internal project README](https://docs.google.com/document/d/1-8eYAkam-fWj1lzDpwWmZOFVMAQvANLvJtmkkienXJc/edit) 🔒
+- [Discovery report](https://docs.google.com/presentation/d/1JmeClPvVzFcx70dE2AJJ_R9nsAzUOaO3gFaS-18Ad3c/edit) 🔒
+- [DWD's RFP](https://esupplier.wi.gov/psp/esupplier/SUPPLIER/ERP/c/WI_SS_SELF_SERVICE.WI_SS_BIDDER_PAGE.?&Page=WI_SS_BIDDER_PAGE&Action=U&WI_SS_EVENT_NBR=11889)
 
 ---
 
