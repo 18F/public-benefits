@@ -34,18 +34,18 @@ TTS is in a unique position to be a leader in this shift, influencing the ecosys
 
 We have worked with partners at the federal, state, and local levels learning about user needs from the beneficiaries in need of care to the federal agencies overseeing the programs, and experimenting with approaches to solve those problems.
 
-- [ACF Office of Head Start Training and Technical Assistance - Data platform](https://github.com/18F/public-benefits#acf-office-of-head-start-training-and-technical-assistance---data-platform)
-- [ACF Office of Head Start - Shared infrastructure](https://github.com/18F/public-benefits#acf-office-of-head-start---shared-infrastructure)
-- [ACF Office of Family Assistance - TANF data portal](https://github.com/18F/public-benefits#acf-office-of-family-assistance---tanf-data-portal)
-- [ACF Office of Policy Research and Evaluation - MAPS contract management](https://github.com/18F/public-benefits#acf-office-of-policy-research-and-evaluation---maps-contract-management)
-- [ACF Office of Policy Research and Evaluation - Known IT Systems evaluation](https://github.com/18F/public-benefits#acf-office-of-policy-research-and-evaluation---known-it-systems-evaluation)
-- [10x Shared Components (IMLS closing the digital divide)](https://github.com/18F/public-benefits#10x-shared-components-imls-closing-the-digital-divide)
-- [FNS NAC - National Accuracy Clearinghouse](https://github.com/18F/public-benefits#fns-nac---national-accuracy-clearinghouse)
-- [VA OCTO](https://github.com/18F/public-benefits#va-octo)
-- [FNS SNAP Income Verification](https://github.com/18F/public-benefits#fns-snap-income-verification)
-- [HHS childcare.gov](https://github.com/18F/public-benefits#hhs-childcaregov)
-- [Wisconsin - Unemployment Insurance](https://github.com/18F/public-benefits#wisconsin---unemployment-insurance)
-- [CMS Oversight - Medicaid Enterprise Systems](https://github.com/18F/public-benefits#cms-oversight---medicaid-enterprise-systems)
+- [ACF Office of Head Start Training and Technical Assistance - Data platform](#acf-office-of-head-start-training-and-technical-assistance---data-platform)
+- [ACF Office of Head Start - Shared infrastructure](#acf-office-of-head-start---shared-infrastructure)
+- [ACF Office of Family Assistance - TANF data portal](#acf-office-of-family-assistance---tanf-data-portal)
+- [ACF Office of Policy Research and Evaluation - MAPS contract management](#acf-office-of-policy-research-and-evaluation---maps-contract-management)
+- [ACF Office of Policy Research and Evaluation - Known IT Systems evaluation](#acf-office-of-policy-research-and-evaluation---known-it-systems-evaluation)
+- [10x Shared Components (IMLS closing the digital divide)](#10x-shared-components-imls-closing-the-digital-divide)
+- [FNS NAC - National Accuracy Clearinghouse](#fns-nac---national-accuracy-clearinghouse)
+- [VA OCTO](#va-octo)
+- [FNS SNAP Income Verification](#fns-snap-income-verification)
+- [HHS childcare.gov](#hhs-childcaregov)
+- [Wisconsin - Unemployment Insurance](#wisconsin---unemployment-insurance-modernization)
+- [CMS Oversight - Medicaid Enterprise Systems](#cms-oversight---medicaid-enterprise-systems)
 
 ### ACF Office of Head Start Training and Technical Assistance - Data platform
 
@@ -67,29 +67,41 @@ scope of the procurement for a new, modular TTA platform.
 
 **People**
 
-Current:
+Current: Ryan Ahearn, Matt Dobson, Robert Jolly
 
-Previous:
+Previous: Randy Hart, Aditi Rao, Edwin Wong
 
 **Links**
 - [OHS's project repo](https://github.com/hhs/head-start-ttadp)
 - [The TTA platform RFQ](https://github.com/18F/Head_Start_TTA_RFQ)
 - [18F's prototype](https://github.com/18F/Head-Start-TTA)
+- [18F project Drive](https://drive.google.com/drive/folders/19cstaTY2bG2zbSsTMrIqhQWWb5YrupeX) 🔒
 
 ---
 
 ### ACF Office of Head Start - Shared infrastructure
 
-[summary]
+On this project, our team is partnering with OHS to modernize their
+infrastructure. The goals are (1) to provide greater sustainability and
+transparency for the organization and (2) to create a foundation that helps
+break out of organizational silos.
+
+This effort begins with the infrastructure for their flagship website, ECLKC,
+but has expanded its scope to serve the whole office. The ECLKC site is a Drupal
+application hosted on AWS, supplemented with applications developed by other
+parts of OHS. The project is acquisition-focused, and is currently in a
+post-award phase.
 
 **People**
 
-Current:
+Current: Ryan Ahearn, Amanda Costello, Matt Dobson, Jessica Dussault, Nate Price
 
-Previous:
+Previous: Randy Hart, Andrew Hyder, Nikki Lee, Steven Reilly
 
 **Links**
 - [The ECLKC infrastructure RFQ](https://github.com/18F/Head-Start-ECLKC-Procurement)
+- [18F internal README](https://docs.google.com/document/d/1krjCGV_nokcVUAc0WFkNj1Kw0LrUt5UHDrHqVnrVXQk/edit#heading=h.b3931jxq9c7d) 🔒
+- [18F project Drive](https://drive.google.com/drive/folders/1eZPIXGH6faOFyRVUfPbrYcASTDNjlqQ_) 🔒
 
 ---
 
@@ -216,7 +228,7 @@ Previous:
 
 ---
 
-### Wisconsin - Unemployment Insurance
+### Wisconsin - Unemployment Insurance Modernization
 
 **Active**: April 2021 - present
 
@@ -244,35 +256,38 @@ Previous: Randy Hart, Steven Reilly, Alicia Rouault
 
 **People**
 
-Current:
+Current: Amy Ashida, Mike Gintz
 
-Previous:
+Previous: Ron Bronson, Randy Hart, Matt Jadud, Norah Maki, Princess Ojiaku, Alex Pandel, Greg Walker
 
 **Links**
+- [Project GitHub repo](https://github.com/CMSgov/CMCS-DSG-DSS-Oversight)
+- [Product Owner, M.D. course](https://federalist-b09e389b-5963-437f-bfdf-a065b9fa71cb.app.cloud.gov/site/18f/health-tracking-course/)
+- [18F internal README](https://docs.google.com/document/d/1vEK53XkkEWRQPkBjVc12rTOReUko-zFVtDokBDoziGw/edit) 🔒
 
 ---
 
 ## Past Projects
 
-- [HHS - SAMHSA Opioid Treatment Locator](https://github.com/18F/public-benefits#hhs---samhsa-opioid-treatment-locator)
-- [Alaska Eligibility & Enrollment (E&E) modernization](https://github.com/18F/public-benefits#alaska-eligibility--enrollment-ee-modernization)
-- [Vermont E&E modernization](https://github.com/18F/public-benefits#vermont-ee-modernization)
-- [10x Data Federation (w/ FNS Child Nutrition)](https://github.com/18F/public-benefits#10x-data-federation-w-fns-child-nutrition)
-- [HHS/CMS Advance Planning Document (APD) modernization](https://github.com/18F/public-benefits#hhscms-advance-planning-document-apd-modernization)
-- [10x E&E - Eligibility rules service](https://github.com/18F/public-benefits#10x-ee---eligibility-rules-service)
-- [California Child Welfare modernization](https://github.com/18F/public-benefits#california-child-welfare-modernization)
-- [Alaska Child Welfare modernization](https://github.com/18F/public-benefits#alaska-child-welfare-modernization)
-- [USDA/SNAP State waiver path analysis](https://github.com/18F/public-benefits#usdasnap-state-waiver-path-analysis)
-- [California MEDS - Medicaid Eligibility modernization](https://github.com/18F/public-benefits#ca-meds---medicaid-eligibility-modernization)
-- [DOL/Women’s Bureau - Paid Family Leave system prototype](https://github.com/18F/public-benefits#dolwomens-bureau---paid-family-leave-system-prototype)
-- [HHS/CMS Multi-program enrollment prototype](https://github.com/18F/public-benefits#hhscms-multi-program-enrollment-prototype)
-- [Missouri Medicaid modernization](https://github.com/18F/public-benefits#missouri-medicaid-modernization)
-- [USDA - Web-Based Prototype Application for Free and Reduced Price School Meals](https://github.com/18F/public-benefits#web-based-prototype-application-for-free-and-reduced-price-school-meals)
-- [SSA - Disability case processing system](https://github.com/18F/public-benefits#ssa---disability-case-processing-system)
-- [HHS/CMS w MO, MN - modernization path analysis](https://github.com/18F/public-benefits#hhscms-w-mo-mn---modernization-path-analysis)
-- [HHS/ACYF w MS, CT, MD - Child Welfare path analysis](https://github.com/18F/public-benefits#hhsacyf-w-ms-ct-md---child-welfare-path-analysis)
-- [10x E&E (Phase 1) - investigation of public benefits landscape](https://github.com/18F/public-benefits#10x-ee-phase-1---investigation)
-- [HHS/ORR Unaccompanied Alien Children Portal](https://github.com/18F/public-benefits#hhsorr-unaccompanied-alien-children-portal)
+- [HHS - SAMHSA Opioid Treatment Locator](#hhs---samhsa-opioid-treatment-locator)
+- [Alaska Eligibility & Enrollment (E&E) modernization](#alaska-eligibility--enrollment-ee-modernization)
+- [Vermont E&E modernization](#vermont-ee-modernization)
+- [10x Data Federation (w/ FNS Child Nutrition)](#10x-data-federation-w-fns-child-nutrition)
+- [HHS/CMS Advance Planning Document (APD) modernization](#hhscms-advance-planning-document-apd-modernization)
+- [10x E&E - Eligibility rules service](#10x-ee---eligibility-rules-service)
+- [California Child Welfare modernization](#california-child-welfare-modernization)
+- [Alaska Child Welfare modernization](#alaska-child-welfare-modernization)
+- [USDA/SNAP State waiver path analysis](#usdasnap-state-waiver-path-analysis)
+- [California MEDS - Medicaid Eligibility modernization](#ca-meds---medicaid-eligibility-modernization)
+- [DOL/Women’s Bureau - Paid Family Leave system prototype](#dolwomens-bureau---paid-family-leave-system-prototype)
+- [HHS/CMS Multi-program enrollment prototype](#hhscms-multi-program-enrollment-prototype)
+- [Missouri Medicaid modernization](#missouri-medicaid-modernization)
+- [USDA - Web-Based Prototype Application for Free and Reduced Price School Meals](#web-based-prototype-application-for-free-and-reduced-price-school-meals)
+- [SSA - Disability case processing system](#ssa---disability-case-processing-system)
+- [HHS/CMS w MO, MN - modernization path analysis](#hhscms-w-mo-mn---modernization-path-analysis)
+- [HHS/ACYF w MS, CT, MD - Child Welfare path analysis](#hhsacyf-w-ms-ct-md---child-welfare-path-analysis)
+- [10x E&E (Phase 1) - investigation of public benefits landscape](#10x-ee-phase-1---investigation)
+- [HHS/ORR Unaccompanied Alien Children Portal](#hhsorr-unaccompanied-alien-children-portal)
 
 To be added:
 
